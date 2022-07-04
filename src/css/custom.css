@@ -5,26 +5,29 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-font-family-base: 'EB Garamond', serif;
+  --ifm-color-primary: #6a73b9;
+  --ifm-color-primary-dark: #5660b0;
+  --ifm-color-primary-darker: #4f59a8;
+  --ifm-color-primary-darkest: #41498b;
+  --ifm-color-primary-light: #7e86c2;
+  --ifm-color-primary-lighter: #888fc7;
+  --ifm-color-primary-lightest: #a5abd5;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #c2c2c2;
+  --ifm-color-primary-dark: #afafaf;
+  --ifm-color-primary-darker: #afafaf;
+  --ifm-color-primary-darkest: #888888;
+  --ifm-color-primary-light: #d5d5d5;
+  --ifm-color-primary-lighter: #dfdfdf;
+  --ifm-color-primary-lightest: #fcfcfc;
+  --ifm-background-color: #000319;
+  --ifm-footer-background-color: #000;
 }
