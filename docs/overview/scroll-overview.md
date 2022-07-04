@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# ❓ | Scroll Overview
+# Scroll Overview
 
 ### Building in the open from day 0
 
