@@ -4,28 +4,6 @@ sidebar_position: 4
 
 # Loot
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+In the Lootverse, the OG bags are the database of high-powered items. This high-value data layer is where lore originates and items are distilled. Due to the nature of the Ethereum mainnet, gas fees are never going to become cheap enough for serious computation to happen (games). So this presents the tricky problem of how to unleash the lore of the bags into a fun environment.
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
-
-## Build your site
-
-Build your site **for production**:
-
-```bash
-npm run build
-```
-
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at `http://localhost:3000/`.
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+We have conceptualized the items as bags instead of characters, enabling the creation of an inflation mechanism to allow the next huge cohort of players to experience the Loot lore, explored deeper in Inflation: Loot Fountains.
