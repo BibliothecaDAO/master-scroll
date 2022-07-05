@@ -2,4 +2,4 @@
 sidebar_position: 4
 ---
 
-# The open item table
+# The Open Item Table
