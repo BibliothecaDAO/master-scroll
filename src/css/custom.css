@@ -44,15 +44,15 @@ h3,
 h4,
 h5,
 h6 {
-  @apply font-display;
+  @apply uppercase font-body text-white tracking-widest;
 }
 
 h1 {
-  @apply text-3xl sm:text-4xl md:text-4xl font-display;
+  @apply text-3xl sm:text-4xl md:text-4xl font-display text-white tracking-wide;
 }
 
 h2 {
-  @apply text-2xl sm:text-3xl md:text-4xl;
+  @apply text-xl md:text-2xl;
 }
 
 h3 {
@@ -60,7 +60,7 @@ h3 {
 }
 
 h4 {
-  @apply text-xl font-semibold tracking-widest uppercase font-body;
+  @apply text-xl tracking-widest uppercase font-body;
 }
 
 button {
@@ -68,5 +68,5 @@ button {
 }
 
 body {
-  @apply text-gray-200 font-body;
+  @apply text-white text-lg;
 }

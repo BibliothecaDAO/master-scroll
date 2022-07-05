@@ -5,8 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         display: ['EB Garamond', 'serif'],
-        body: ['Inconsolata', 'monospace'],
-        lords: ['Lords', 'serif'],
+        body: ['Inconsolata', 'monospace']
       }
     },
   },
