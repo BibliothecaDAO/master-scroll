@@ -7,27 +7,46 @@ sidebar_position: 1
 # Preface to the Scroll
 ![mobius strip](/img/mobius.jpeg)
 
+
 Building a project in the open comes with its challenges, namely you traverse your idea maze in public. Rarely does one come up with a perfect idea to begin with and follow it entirely through to completion. One must experiment and realise where their hypothesis falls short and in doing so realise what they shouldn’t do. We have travelled down the idea maze multiple times building this game, realising what we shouldn't be doing. 
 
-We outline in the scroll our masterplan for realising a player owned and player governed eternal game. It is important before you read this document to understand some of our overaching princibles we have taken into consideration when designing this game.
+We outline in this scroll our masterplan for realising a player owned and player governed eternal game. It is important before you read this introduction to understand some of our overarching princibles in our game and protocol design.
 
 
-### What is an eternal game?
+## What is an eternal game?
 
-Eternal games are what we are driving to create. Eternal games live on the blockchain and exist for as long as the life of the blockchain.
-
-#### Onchain state, onchain logic
-
-Onchain
-
-
-### Open source
+Eternal games have gameplay that last for the length of the open network that they exist on. They are both persistent and ephemeral, they are a new paradigm and they must have the following properties:
+- Game play is persistent
+- Ephemeral state
+- Logic and all state is onchain 
+- Multi client
 
 
-### cc0
+## Onchain state, onchain logic
+
+When we talk about onchain we mean that every part of the game logic and the game state exists on the blockchain. There is much discussion about what the blockchain brings to games and we believe it’s strength far surpasses just financial assets. By bringing the game logic and game state onchain we create a permissionless API which allows deep interoperability with other games. 
+
+To put this in a web2 perspective, imagine if every API in existence had deep interoperability with one another. This is the vision. Just how the world runs on open APIs now, the future of gaming will exist with composable game contracts.
 
 
-### Player governance
+## Open source
+It is no coincidence that linux exists on 95% of devices in the world. Linux was created in 1991 by Linus Torvalds as a unix clone and licened as an open source operating system. 40 years later, it runs on more devices than any other operating system. It was the power of open source and the ability for anyone in the world to freely contribute that built this incredible piece of software. No single entity would have been able to create this.
+When you are on the bleeding edge of blockchain technology you must leverage all the mental capacity that is available in order to build the best product. Just like how linux won, we believe open source gaming will win.
+
+This is not to say the software is free, it’s that the underlying protocol is open source and new and interesting business models can be built on top.
+
+## cc0
+Creative commons licensing of assets is open sourcing the IP of your assets. Instead of a walled of garden like Disney, anybody is free to use and build on your creations.  Rather than thinking of people using your IP as extractive, it can be leveraged as additive to your network. We live in a time where information and now value flows at the speed of light, by allowing you game art and assets to be used by anyone the network effect takes hold.
+
+## Player ownership and governance
+We see a future world of co-creation between developers, players and publishers, with the line between the them becoming forever blurred. With NFTs and permissioned contracts we can allow the game to be governed by the players forever. There will however be a canonical universe of imperion and if a group of players choose they do not like the direction of the game, they can simply fork the world and run their own game state. We are heavily inspired by the work of ISAAC and the team at Dark Forest.
 
 
-### Why StarkNet
+## StarkNet & Validity Proofs
+
+Games are some of the most complex pieces of software that exist in the world. The Etheurem Virtual Machine (EVM) is an incredible piece of low powered software, however it is not suited for heavy computation and it was never designed for it. For true onchain realities and worlds to emerge we require a new technology, and the technology that we have chosed is STARKS. 
+
+StarkNet is a validity proof generalised smart contract network in which anyone can publish smartcontracts. These smartcontracts create tiny proofs which are validated by external machines. Once enough of these proofs have been created by the network a batch is published onto Ethereum Mainnet. By doing this, we have can abstract the heavy computation needed for games but still retain the security guarantee of a decentralised network, Ethereum.
+
+We dive deep into our reasoning for choosing StarkNet in the final section of this document.
+
