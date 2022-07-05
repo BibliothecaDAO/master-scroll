@@ -71,8 +71,8 @@ const config = {
       navbar: {
         title: 'Master Scroll',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Bibliotheca Book',
+          src: 'img/book.svg',
         },
         items: [
           {

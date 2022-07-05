@@ -10,20 +10,21 @@ import styles from "./index.module.css";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero", styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
-          >
-            Read the scroll
-          </Link>
+    <div className="">
+      <div className="container text-left py-20">
+        <div className=" w-1/2 mx-auto">
+          <p className="text-3xl mx-auto pt-20">{siteConfig.tagline}</p>
+          <div className={styles.buttons}>
+            <Link
+              className="px-4 py-2 uppercase tracking-widest  bg-black/20 rounded shadow"
+              to="/docs/intro"
+            >
+              Read the scroll
+            </Link>
+          </div>
         </div>
       </div>
-    </header>
+    </div>
   );
 }
 
@@ -32,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="BibliothecaDAOs masterscroll"
+      description="BibliothecaDAO Master scroll"
     >
       <HomepageHeader />
     </Layout>
