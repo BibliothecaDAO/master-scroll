@@ -6,7 +6,7 @@ sidebar_position: 5
 
 > With your Resources generated, you can begin to develop and fortify your Realm. Each building will have a positive effect on one statistic but will negatively impact another. It is your job as an ruler to balance this.
 
-## Building Sizes
+## Spatial areas
 
 Buildings take up square meters on your Realm so you must choose which ones to build.
 
@@ -18,7 +18,7 @@ You can calculate the sqm of the Realm by:
 
 The above formula will give you the Realm’s max building sqm (which is the constraint) and you can’t build more than this at any given time. If you have built on all available sqm, you must wait for decay to happen or demolish buildings to create space. 
 
-## Decay of Buildings
+## Building Decay
 
 Buildings in the game exponentially decay over time - the more building of the same typ you have, the faster they decay.
 
@@ -34,3 +34,9 @@ Each building decays at a different rate, for example, Castles decay slower than
 | Archer Tower | x |
 | Mage Tower | x |
 | Castle | x |
+
+## Economic buildings
+
+## Military Buildings
+
+## Storage Buildings

@@ -4,11 +4,14 @@ sidebar_position: 2
 
 # Realms
 
-> The economy of the Lootverse exists around producers and consumers, with meta-game loops baked into the economy.
+> #### The economy of the Lootverse exists around producers and consumers, with meta-game loops baked into the economy.
 
-## Realms: The Land Owners & Lords
+## The Origin
+
+## The Resources
+
+## The Traits
+
+## cc0 and open 
 
 Realms are the landowners of this world; they are the primary productive asset that keeps injecting liquidity into this ever-expanding Lootverse. They go to war, form allegiances (and break them) over these resources through an on-chain raiding and pillaging game called ‘Imperio’. Each Realm contains a combination of the 22 different resources discovered thus far in the Lootverse, and has a varying amount of traits; Regions, Cities, Rivers & Harbors. There are 50 mythical Wonders spread throughout the realms, such as The Pantheon of Chaos, The Cerulean Reliquary & The Altar of Divine Will.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hLBFu7ykuII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

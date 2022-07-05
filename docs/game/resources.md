@@ -10,11 +10,31 @@ All settled Realms will begin producing an output of 100 of each of its resource
 
 ## What are Resources?
 
-## How are Resources generated?
+## Generating resources
 
-## What do you do with Resources?
+#### How are resources generated?
 
-## The Vault
+#### How do I increase resource production?
+
+#### How do I claim resources?
+
+#### A cap on your resource production
+
+## Trade resources
+
+#### The AMM
+
+#### Tax
+
+## Using resources
+
+#### Buildings
+
+#### Troops
+
+#### Farms
+
+## The Resource Vault
 
 The 25% value is your ‘Vault’. This is what raiding Realms are after and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it. However, if you are attacked successfully, you will be depleted by 50%. This means you will need to wait until your vault refills until you can claim.
 
