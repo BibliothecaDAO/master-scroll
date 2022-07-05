@@ -18,6 +18,8 @@ This process would look something like this:
 
 [layer 1 layer 2 image]
 
+---
+
 ### Item Flow
 
 1. Items are distilled into individual ERC721s directly onto StarkNet in the holder's account

@@ -70,3 +70,7 @@ button {
 body {
   @apply text-white text-lg;
 }
+
+table th {
+  @apply uppercase tracking-widest
+}

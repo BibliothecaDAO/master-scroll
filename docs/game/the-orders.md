@@ -4,21 +4,12 @@ sidebar_position: 7
 
 # The Orders
 
+![alt](/img/order.png)
+
 ## What is an Order?
 
 There are 16 Orders that were discovered deep in the data and contracts of Loot, each of which 500 Realms are assigned to. Creating order within the Lootverse (discovered by the historians at https://loot.foundation/ and Genesis Adventurers.
 
-What are the Orders?
-
-| Order of Power | Order of Anger |
-| ----------- | ----------- | 
-| Order of Giants | Order of Rage |
-| Order of Titans | Order of Fury |
-| Order of Skill | Order of Vitriol |
-| Order of Perfection | Order of the Fox |
-| Order of Brilliance | Order of Detection |
-| Order of Enlightenment | Order of Reflection |
-| Order of Protection | Order of the Twins |
 
 ## What do the Orders mean for gameplay?
 
@@ -29,6 +20,8 @@ They unlock the opportunity of wars. Realms from the same Order will be able to 
 This also creates a new collaborative dynamic as Realm Lords/Ladies can work together to make their Order more collectively powerful. Advanced collaboration, such as the development alliances between orders and order-owned assets (wonders, Genesis Adventurers) would drive increasingly more complex storylines and gameplay strategy.
 
 ## Order Alignment
+
+[need graphic for this]
 
 The Lore seems to imply that some alignment exists between orders, anticipating potential Order alliances.
 1. The orders of Power, Giants, Titans, and Skill have an alignment of Strength.

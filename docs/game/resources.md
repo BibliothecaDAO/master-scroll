@@ -8,7 +8,11 @@ sidebar_position: 3
 
 All settled Realms will begin producing an output of 100 of each of its resources per day, 75% of which are available for the Realm’s owner to harvest immediately, and 25% are secured in the Realm’s vault, a potential target for raiders to pillage.
 
+---
+
 ## What are Resources?
+
+---
 
 ## Generating resources
 
@@ -20,12 +24,12 @@ All settled Realms will begin producing an output of 100 of each of its resource
 
 #### A cap on your resource production
 
+---
 ## Trade resources
 
 #### The AMM
 
-#### Tax
-
+---
 ## Using resources
 
 #### Buildings

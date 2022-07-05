@@ -40,3 +40,5 @@ Each building decays at a different rate, for example, Castles decay slower than
 ## Military Buildings
 
 ## Storage Buildings
+
+## Farming Buildings

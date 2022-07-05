@@ -6,6 +6,8 @@ sidebar_position: 3
 
 ## Open Item Tables
 
+[TODO: insert graphic of these tokens and the item table]
+
 The project is designed around a core set of composable DAO governed contracts, extendable in the future via modules. Modules are isolated contracts written by Bibliotheca or external developers that all interact with the core contracts. These core contracts form the basis for the economy and can be seen much like item tables (Diablo items etc) in a traditional game. Namely, the most interesting contracts are:
 
 ## ERC1155 Resource Tokens
@@ -17,6 +19,8 @@ The core fungible high inflation, high burn tokens. 22 different tokens will exi
 These are items that are crafted from burning the resource tokens. These are rare, valuable, and provide unique statistics which can be leveraged in other areas of the game.
 
 ## ERC721 Loot Items
+
+[disitling loot items + equipping ]
 
 Inflationary contract of individual Loot items distilled with a special Layer 1 to Layer 2 contract. These inflate at a fixed rate and are available for trade and to equip onto their Character.
 

@@ -4,7 +4,12 @@ sidebar_position: 9
 
 # Relics
 
+[need an image]
+
 > There are 8000 ancient Relics across the Realmverse and one exists on each Realm. 
+
+
+### What is a Relic?
 
 You can plunder a Relic by Raiding another Realm, which you’ll receive along with the Resources of a successful Raid. 
 

@@ -4,19 +4,16 @@ sidebar_position: 1
 
 # Overview & Keypoints
 
-## Eternal games
+## The Game Flow
 
-Persistent gameplay, ephemeral state
-Game state is shaped by the players
-Economically governed by active players
-Onchain state - onchain logic
-Multiclient
-Permissionlessly extendable
+[insert graphic flow]
 
-## What is a hyperstructure?
 
-## Goal of the game
+#### You must make difficult choices
 
-## Games are about hard choices
 
-## There is no free lunch
+#### TLDR;
+
+#### Coefficents
+
+#### Happiness
