@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  @apply uppercase font-body text-white tracking-widest;
+  @apply font-display text-white tracking-widest mb-2;
 }
 
 h1 {
@@ -60,7 +60,7 @@ h3 {
 }
 
 h4 {
-  @apply text-xl tracking-widest uppercase font-body;
+  @apply text-xl tracking-widest;
 }
 
 button {
