@@ -30,7 +30,7 @@ function ColorModeToggle({className, value, onChange}) {
   );
   return (
     <div className={clsx(styles.toggle, className)}>
-      {/* <button
+      <button
         className={clsx(
           'clean-btn',
           styles.toggleButton,
@@ -47,7 +47,7 @@ function ColorModeToggle({className, value, onChange}) {
         <IconDarkMode
           className={clsx(styles.toggleIcon, styles.darkToggleIcon)}
         />
-      </button> */}
+      </button>
     </div>
   );
 }
