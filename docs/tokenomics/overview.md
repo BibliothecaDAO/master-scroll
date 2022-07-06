@@ -8,4 +8,10 @@ sidebar_position: 1
 
 ### Sustainability of the protocol
 
+### Sinks
+
+[in game sinks graphic]
+
 ### Hard currency and LORDS
+
+[lords flowing]

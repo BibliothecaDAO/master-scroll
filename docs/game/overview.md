@@ -11,6 +11,8 @@ sidebar_position: 1
 
 #### You must make difficult choices
 
+Do I build farms? Or do I build troops
+
 
 #### TLDR;
 

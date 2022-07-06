@@ -21,7 +21,7 @@ A hard cap of 500 million Lords has been set, with distribution highlighted in t
 
 ## Game emissions
 
-The biggest tranche of $LORDS will be released via game emissions. These emissions will follow a supply curve dependent on the actions within the game. It will be released at a sustained rate to balance inflation with growth, with the expected total distribution to take at least 3 years.
+The biggest tranche of $LORDS will be released via game emissions. These emissions will follow a supply curve dependent on the actions within the game. It will be released at a sustained rate to balance inflation with growth, with the expected total distribution to take at least 6 years.
 
 ---
 

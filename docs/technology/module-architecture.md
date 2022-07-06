@@ -15,6 +15,7 @@ One of the core tenets of Ethereums decentralisation is that it can be accessed 
 
 ## Creators get paid
 
+Develop a module with microtransaction baked in. Creators are developers and gamers.
 
 
 

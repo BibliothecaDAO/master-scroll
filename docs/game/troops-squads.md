@@ -3,6 +3,7 @@ sidebar_position: 6
 ---
 
 # Troops & Squads
+---
 
 > “In the midst of chaos, there is also opportunity.”
 
@@ -16,17 +17,13 @@ NOTE: Troops are not tradable tokens. They only exist on your Realm and you cann
 
 #### Troop Statistics
 
-[insert Squad Image]
+[insert Squad Image and all troops]
+
+---
 
 ## What are Squads?
 
 Troops are divided into three tiers with stats weighed by the rarity of resource cost. One squad is made of 25 troops:
-
-| Tier | Quantity |
-| ----------- | ----------- |
-| Tier one | 16 |
-| Tier two | 8 |
-| Tier three | 1 |
 
 This forms a single squad that you can use to Raid or you can just use as defense on your Realm. Tier 3 troops offer special bonuses to the whole squad.
 
