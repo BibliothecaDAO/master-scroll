@@ -28,3 +28,5 @@ Troops are divided into three tiers with stats weighed by the rarity of resource
 This forms a single squad that you can use to Raid or you can just use as defense on your Realm. Tier 3 troops offer special bonuses to the whole squad.
 
 If a troop is slain they are removed from the squad and the game.
+
+### The health of the squad

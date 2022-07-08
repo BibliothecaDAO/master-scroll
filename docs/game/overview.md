@@ -8,6 +8,8 @@ sidebar_position: 1
 
 [insert graphic flow]
 
+## Burning mechanisms
+
 
 #### You must make difficult choices
 
