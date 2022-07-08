@@ -20,7 +20,7 @@ The above formula will give you the Realm’s max building sqm (which is the con
 
 ## Building Decay
 
-Buildings in the game exponentially decay over time - the more building of the same typ you have, the faster they decay.
+Buildings in the game exponentially decay over time - the more building of the same type you have, the faster they decay.
 
 Each building decays at a different rate, for example, Castles decay slower than a House. 
 
