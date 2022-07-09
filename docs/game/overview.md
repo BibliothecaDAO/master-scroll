@@ -2,11 +2,22 @@
 sidebar_position: 1
 ---
 
-# Overview & Keypoints
+
+
+
+# Overview
 
 ## The Game Flow
 
-[insert graphic flow]
+The game exists in an eternal state. Realm lords must choose which direction they take.
+
+---
+![alt](/img/game/military-path.png)
+
+---
+![alt](/img/game/economic-path.png)
+
+
 
 ## Burning mechanisms
 

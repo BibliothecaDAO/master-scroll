@@ -48,7 +48,7 @@ h6 {
 }
 
 h1 {
-  @apply text-3xl tracking-wide text-white sm:text-4xl md:text-4xl font-display;
+  @apply text-3xl tracking-wide text-white sm:text-4xl md:text-5xl font-display;
 }
 
 h2 {
