@@ -10,7 +10,10 @@ Wonders are mythical buildings that demand respect. They are all unique in vario
 
 ## The Wonder Bonus
 
-Passive resources from all the Realms.
+Every settled (staked) Wonder is entitled to a daily bonus of every Resource. 
+
+Settled Wonder Realms can claim 50x of every Resource each day, but this does not accrue so it must be claimed daily for the maximum bonus.  
+
 
 ## Other Benefits
 

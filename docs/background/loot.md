@@ -7,7 +7,7 @@ tags:
 # ⬛ Loot
 ---
 
-[loot bag image] 
+![Loot Bag](/img/loot.png)
 
 ## A time before loot and a time after
 
