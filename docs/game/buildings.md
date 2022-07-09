@@ -37,3 +37,20 @@ The above formula will give you the Realm’s max building sqm (which is the con
 Buildings in the game exponentially decay over time - the more building of the same type you have, the faster they decay.
 
 Each building decays at a different rate, for example, Castles decay slower than a House. 
+
+
+## Building Types
+
+### Economic
+
+Worker huts - cost - how to build - decay
+
+### military
+
+what they do
+
+### Agricultual 
+
+Farms + Fishing
+
+Storehouse
