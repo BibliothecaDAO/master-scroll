@@ -21,7 +21,7 @@ export default function DocSidebarItemLink({
       className={clsx(
         ThemeClassNames.docs.docSidebarItemLink,
         ThemeClassNames.docs.docSidebarItemLinkLevel(level),
-        'menu__list-item uppercase tracking-widest text-[#f5eee6] font-semibold',
+        'menu__list-item uppercase tracking-widest text-[#f5eee6]',
         className,
       )}
       key={label}>
@@ -30,7 +30,7 @@ export default function DocSidebarItemLink({
           'menu__link uppercase text-[#f5eee6]',
           !isInternalLink && styles.menuExternalLink,
           {
-            'menu__link--active uppercase': isActive,
+            'menu__link--active uppercase  font-semibold': isActive,
           },
         )}
         aria-current={isActive ? 'page' : undefined}

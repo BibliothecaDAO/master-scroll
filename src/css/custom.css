@@ -10,7 +10,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Inconsolata:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Inconsolata:wght@300&display=swap');
 :root {
   --ifm-font-family-base: 'Inconsolata', monospace;
   --ifm-color-primary: #000000;
@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  @apply mb-2 tracking-wide text-[#f5eee6] font-display;
+  @apply mb-1 tracking-wide text-[#f5eee6] font-display;
 }
 
 h1 {
@@ -52,15 +52,15 @@ h1 {
 }
 
 h2 {
-  @apply text-xl md:text-2xl;
+  @apply text-xl md:text-3xl;
 }
 
 h3 {
-  @apply text-xl sm:text-xl md:text-2xl;
+  @apply text-xl uppercase sm:text-xl md:text-2xl font-body;
 }
 
 h4 {
-  @apply text-xl tracking-widest;
+  @apply text-xl tracking-widest uppercase font-body;
 }
 
 button {
@@ -68,7 +68,7 @@ button {
 }
 
 body {
-  @apply text-lg text-[#f5eee6] ;
+  @apply text-xl text-[#f5eee6] ;
 }
 
 table th {
