@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 
 # Raiding
@@ -14,8 +14,8 @@ Once a Realm has summoned army troops, it is able to commence a raid on any Real
 
 The walls of a Realm must be breached before raiders can attack defenders. Ranged defenders and attackers can deal damage directly before the wall has fallen. A wall has 100 vitality, 100 defense, and 1 in all other stats.
 
-### How raiding works
 
+![alt](/img/game/combat.png)
 
 ### Cool Down Time
 

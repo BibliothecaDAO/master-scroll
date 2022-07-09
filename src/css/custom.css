@@ -44,11 +44,11 @@ h3,
 h4,
 h5,
 h6 {
-  @apply mb-2 tracking-wide text-white font-display;
+  @apply mb-2 tracking-wide text-[#f5eee6] font-display;
 }
 
 h1 {
-  @apply text-3xl tracking-wide text-white sm:text-4xl md:text-5xl font-display;
+  @apply text-3xl tracking-wide text-[#f5eee6] sm:text-4xl md:text-5xl font-display;
 }
 
 h2 {
@@ -68,7 +68,7 @@ button {
 }
 
 body {
-  @apply text-lg text-white;
+  @apply text-lg text-[#f5eee6] ;
 }
 
 table th {
