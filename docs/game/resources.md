@@ -1,5 +1,10 @@
 ---
 sidebar_position: 3
+description: There are 22 different resources that exist across the Realms.
+tags:
+  - raiding
+  - resources
+  - production
 ---
 
 # Resources

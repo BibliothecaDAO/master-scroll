@@ -1,14 +1,21 @@
 ---
 sidebar_position: 4
+tags:
+  - food
+  - rivers
+  - harbours
+  - population
 ---
 
 # Food
 
-> If you want to increase your Resource production (population) or have a military to attack/defend (troops) with a higher vitality, you will need to provide your Realm with food. 
+---
+
+> If you want to increase your Resource production (population) or have a military to attack/defend (troops) with a higher vitality, you will need to provide your Realm with food. Food is cheap and every realm can produce it, but you must manage it wisely.
 
 
 
-## Rivers (Farms) & Harbors (Fish Traps)
+## Rivers (Farms) & Harbours (Fish Traps)
 
 Farms are constrained to the number of Rivers you have in your Realm, and Fish Traps to your Harbors. The higher number of Farms/Fish Traps you have built, the higher yield of Wheat/Fish you’ll generate. 
  Each Farm/Fishing Trap generates 1000 units per day and accrues for a maximum of 3 days until they are harvested. 
@@ -33,6 +40,7 @@ In turn, this provides the opportunity for other Lords to purchase them instead 
 
 Wheat and Fish will have separate markets so this will add an interesting economic factor to the game.
 
-### Factors to consider
+## Factors to consider
 
-[impact food chart]
+### Food consumption
+Workhuts, military buildings and troops all consume food. The more of these you have the faster the food is depleted. If you run out of food two major things happen, you production is capped at 25 and your troops vitality is capped at 50%.

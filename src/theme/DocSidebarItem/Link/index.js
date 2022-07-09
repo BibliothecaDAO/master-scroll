@@ -21,16 +21,16 @@ export default function DocSidebarItemLink({
       className={clsx(
         ThemeClassNames.docs.docSidebarItemLink,
         ThemeClassNames.docs.docSidebarItemLinkLevel(level),
-        'menu__list-item uppercase tracking-widest text-[#f5eee6]',
+        'menu__list-item  tracking-widest text-[#f5eee6]',
         className,
       )}
       key={label}>
       <Link
         className={clsx(
-          'menu__link uppercase text-[#f5eee6]',
+          'menu__link font-display tracking-wide  text-[#f5eee6]',
           !isInternalLink && styles.menuExternalLink,
           {
-            'menu__link--active uppercase  font-semibold': isActive,
+            'menu__link--active  font-semibold': isActive,
           },
         )}
         aria-current={isActive ? 'page' : undefined}
