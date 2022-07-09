@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  @apply mb-1 tracking-wide text-[#f5eee6] font-display mt-10;
+  @apply mb-1 tracking-wide text-[#f5eee6] font-display;
 }
 
 h1 {
