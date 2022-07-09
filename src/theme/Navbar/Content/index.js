@@ -19,15 +19,15 @@ function NavbarItems({items}) {
   return (
     <>
       {items.map((item, i) => (
-        <NavbarItem {...item} key={i} />
+        <NavbarItem className="uppercase text-[#f5eee6]" {...item} key={i} />
       ))}
     </>
   );
 }
 function NavbarContentLayout({left, right}) {
   return (
-    <div className="navbar__inner">
-      <div className="navbar__items">{left}</div>
+    <div className="navbar__inner ">
+      <div className="navbar__items font-display text-[#f5eee6]">{left}</div>
       <div className="navbar__items navbar__items--right">{right}</div>
     </div>
   );
@@ -44,7 +44,7 @@ export default function NavbarContent() {
         <>
           {!mobileSidebar.disabled && <NavbarMobileSidebarToggle />}
           <NavbarLogo />
-          <NavbarItems items={leftItems} />
+          <NavbarItems  items={leftItems} />
         </>
       }
       right={
@@ -52,7 +52,7 @@ export default function NavbarContent() {
         // Ask the user to add the respective navbar items => more flexible
         <>
           <NavbarItems items={rightItems} />
-          <NavbarColorModeToggle className={styles.colorModeToggle} />
+          {/* <NavbarColorModeToggle className={styles.colorModeToggle} /> */}
           {!searchBarItem && (
             <NavbarSearch>
               <SearchBar />

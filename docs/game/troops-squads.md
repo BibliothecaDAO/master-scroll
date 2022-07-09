@@ -5,7 +5,7 @@ sidebar_position: 5
 # Troops & Squads
 ---
 
-> “In the midst of chaos, there is also opportunity.”
+> In the midst of chaos, there is also opportunity. Summon troops to help defend your Realm, or quest to foreign lands in order to steal riches.
 
 
 ## What are Troops?
@@ -30,10 +30,15 @@ NOTE: Troops are not tradable tokens. They only exist on your Realm and you cann
 
 Troops are divided into three tiers with stats weighed by the rarity of resource cost. One squad is made of 25 troops:
 
+![alt](/img/game/squads.png)
+
 This forms a single squad that you can use to Raid or you can just use as defense on your Realm. Tier 3 troops offer special bonuses to the whole squad.
 
 If a troop is slain they are removed from the squad and the game.
 
-![alt](/img/game/squads.png)
+
 
 ### The health of the squad
+Each troop has a different vitality statistic that determines how many health it has. If a troop is hurt in battle it does not rejuvenate and heal. Once vitality reaches 0 the troop is dead.
+
+If you run out of food the vitality of the Troops are permanently effected by 50%, making them easier targets. You must keep your storehouse full!
