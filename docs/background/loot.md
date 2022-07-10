@@ -1,9 +1,8 @@
 ---
 sidebar_position: 4
-description: The big bang of CC0, collaborative, composable, on-chain gaming
+description: Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multi-media.
 tags:
   - loot
-description: Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multi-media.
 ---
 
 # Loot
