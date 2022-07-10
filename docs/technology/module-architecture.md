@@ -15,7 +15,9 @@ One of the core tenets of Ethereums decentralisation is that it can be accessed 
 
 ## Creators get paid
 
-Develop a module with microtransaction baked in. Creators are developers and gamers.
+Develop a module with microtransaction baked in. Creators are developers and gamers, and deserve to be equitably rewarded for their contributions in creating amazing experiences.
 
 ### Modules
-Modules are isolated contracts written by Bibliotheca DAO or external developers that all interact with the core contracts. These core contracts form the basis for the economy and can be seen much like item tables (Diablo items etc) in a traditional game.
+Modules are isolated contracts written by Bibliotheca DAO or external developers that all interact with the core contracts. These core contracts form the basis for the economy and can be seen much like item tables (Diablo items etc) in a traditional game. When a new DLC happens, the item table is extended. In the Realmverse, the item table is the ERC1155 contract, and the DLC are the logic modules controlling their distribution and usage.
+
+[Item Table Graphic Here?]
