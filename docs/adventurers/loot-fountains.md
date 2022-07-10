@@ -9,7 +9,7 @@ title: Loot Fountains
 
 💡 Layer 2 = Computation
 
-For Loot to realise its potential as a high-value game asset it needs to be more dynamic and available to more people. We have taken the approach of an inflationary distillation contract which splits each Loot bag into its individual items. Each item is then available on StarkNet to trade and play with. Balance this contract with controlled inflation mechanics and we can open Loot to the next 100k players.
+For Loot to realize its potential as a high-value game asset it needs to be more dynamic and available to more people. We have taken the approach of an inflationary distillation contract which splits each Loot bag into its individual items. Each item is then available on StarkNet to trade and play with. Balance this contract with controlled inflation mechanics and we can open Loot to the next 100k players.
 
 ### Controlled inflation is good
 
@@ -28,7 +28,7 @@ This process would look something like this:
 
 ### Inflation Rate
 
-The actual inflation rate will be finalised on a vote by the hybrid DAO, however, our proposal is as follows:
+The actual inflation rate will be finalized on a vote by the hybrid DAO, however, our proposal is as follows:
 
 - 1 Distil event per 604800s (1 Week)
 - 25 $LORDS to Distil a Bag

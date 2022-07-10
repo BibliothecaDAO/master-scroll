@@ -42,7 +42,7 @@ As a holder, you have to make a choice where to store your $LORDS which are outl
 
 ## The Nexus
 
-Transactions within the protocol rely on trading with $LORDS. And with these transactions comes a fee (to power the Nexus). These fees are currently set at the following %, however, as with any decentralised protocol, governance can vote to alter these.
+Transactions within the protocol rely on trading with $LORDS. And with these transactions comes a fee (to power the Nexus). These fees are currently set at the following %, however, as with any decentralized protocol, governance can vote to alter these.
 
 | Action | Fee |
 | ----------- | ----------- |

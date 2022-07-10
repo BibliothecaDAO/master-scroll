@@ -26,7 +26,7 @@ All the resources within this gameworld are tradable tokens. You use these resou
 
 #### Difficult player choices
 
-Players must make difficulty choices in this game. Every action has a reaction. Build too many troops and buildings and your food supplies will be depleted. Leave your vault unprotected and you will not be able to harvest the 7 day bounty. Optimise your builds and keep your digital serfs happy in order to rule in Eternal Imperio.
+Players must make difficulty choices in this game. Every action has a reaction. Build too many troops and buildings and your food supplies will be depleted. Leave your vault unprotected and you will not be able to harvest the 7 day bounty. Optimize your builds and keep your digital serfs happy in order to rule in Eternal Imperio.
 
 #### Realms are the beginning
 
