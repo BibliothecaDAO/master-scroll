@@ -34,7 +34,7 @@ If you don't claim your Resources daily, they will accrue for up to 3 day cycles
 
 #### What do Resources do?
 
-You use the Resources in order to build [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/tokenomics/amm). They are the economic layer of this world and are scarce, so use them wisely.
+You use the Resources in order to build [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/economics/amm). They are the economic layer of this world and are scarce, so use them wisely.
 
 
 ---
@@ -51,7 +51,7 @@ You must build up your defensive Army in order to protect your Vault. If you don
 
 ### Cool down between attacks
 
-If you are attacked, whether sucessessful or not, your Realm is given a 30 minute cool down period where it can't be attacked.
+If you are attacked, whether successful or not, your Realm is given a 30 minute cool down period where it can't be attacked.
 
 ---
 
