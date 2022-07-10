@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # StarkNet & Validity Proofs
+---
 
 Games are some of the most complex pieces of software that exist in the world. The Ethereum Virtual Machine (EVM) is an incredible tool for low power requirement software, however it is not suited for heavy computation (and was never designed for it). For true onchain realities and worlds to emerge we require a new technology, and we believe that STARKS show the greatest promise to achieve this.
 
