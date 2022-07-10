@@ -17,5 +17,5 @@ One of the core tenets of Ethereums decentralisation is that it can be accessed 
 
 Develop a module with microtransaction baked in. Creators are developers and gamers.
 
-
-
+### Modules
+Modules are isolated contracts written by Bibliotheca DAO or external developers that all interact with the core contracts. These core contracts form the basis for the economy and can be seen much like item tables (Diablo items etc) in a traditional game.

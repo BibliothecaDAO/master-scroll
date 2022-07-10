@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# The Nexus (Single-Sided Staking)
+# The Nexus
 
 > Single-sided Staking of $LORDS and LP tokens
 
