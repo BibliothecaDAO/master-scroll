@@ -16,7 +16,7 @@ tags:
 
 ---
 
-# Spatial areas
+## Spatial areas
 
 Buildings take up square meters on your Realm so you must choose which ones to build.
 
@@ -41,15 +41,36 @@ Each building decays at a different rate, for example, Castles decay slower than
 
 ## Building Types
 
+[buildings and decay time table]
+
 ### Economic
 
-Worker huts - cost - how to build - decay
+Worker Huts are building that increase your working population. The greater your popualation, the greater the output of your Resources. A consquence of having a greater population is that you will require more food otherwise your Resource generation will be capped at 25 per day - [read more here](./food)
 
-### military
+Worker Huts have a fixed and relative cost based on the Resources the Realm has. For example, a Realm with only Wood can build a Worker Hut for 10x Wood, while a Realm with Diamonds, Sapphire and Mithral will need to pay 10 of each. 
 
-what they do
+Once you build Woker Huts they will decay, so it is not a one-time purchase. Worker Huts decay over the course of 24 hours once building, and once fully decayed the population is decreased again.
+
+### Military
+
+A Lord must build military buildings to unlock the ability to muster troops for raiding Realms and defending their Raidable Vault. 
+
+There are four types of military buildings and they unlock different army units in each of the three tiers:
+
+| Building | Decay Rate | Tier 1 Unit | Tier 2 Unit | Tier 3 Unit |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Archer House | x | Skirmisher | Longbow | Crossbow |
+| Barracks | x | Pikeman | Knight | Paladin |
+| Castle | x | Ballista | Mangonel | Trebuchet |
+| Mage Tower | x | Apprentice | Mage | Archanist |
 
 ### Agricultual 
+
+To keep your happiness level in a positive, a Realm Lord must ensure that there is enough food for the population at any given time. The higher the population (Worker Huts) and military units on a Realm, the more food required to maintain happiness and therefore increase Resouce output.
+
+There are two agricultural buildings in the Realmverse and they produce two different food: Farms produce Wheat, and Fishing Traps produce Fish. 
+
+
 
 Farms + Fishing
 

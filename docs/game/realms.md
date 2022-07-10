@@ -9,11 +9,11 @@ tags:
 # Realms
 ---
 
-> Realm Lords are the landowners of this world; they are the primary productive asset that keeps injecting liquidity into this ever-expanding Lootverse. They go to war, form allegiances (and break them) over fighting over scarce resources.
+> Realm Lords are the landowners of this world; they are the primary productive asset that keeps injecting liquidity into this ever-expanding world. They go to war, form allegiances (and break them) when fighting over scarce Resources.
 
 ## Origin
 
-The 8000 Realms were procedurally generated as black and white SVG files, but have since then begun their transition into higher-fidelity renders using height maps.
+The 8000 Realms were procedurally generated as black and white SVG files, but have since then begun their transition into high-fidelity 3D renders using height maps. 
 
 ![alt](/img/game/realms-low-fid.png)
 

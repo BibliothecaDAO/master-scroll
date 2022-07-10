@@ -5,7 +5,7 @@ sidebar_position: 8
 # Wonders
 ---
 
-> 50 Wonders spread throughout the world. Wonders are mythical buildings that demand respect. They are all unique in various ways. Who built them is unknown...
+> 50 Wonders are spread throughout the Realmverse. Wonders are mythical buildings that demand respect. They are all unique in various ways. Who built them is unknown...
 
 
 

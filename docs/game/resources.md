@@ -7,7 +7,7 @@ tags:
   - production
 ---
 
-# Resources
+# Generating Resources
 
 > 22 Resources of varying rarity have been discovered across the Realms, ranging from common Coal & Wood to the rare and magical Mithral & Dragonhide. 
 
@@ -15,8 +15,6 @@ tags:
 
 
 ---
-
-## Generating Resources
 
 #### How are Resources generated?
 
@@ -28,7 +26,7 @@ By increasing the population on a Realm, you will increase the number of workers
 
 #### How do I harvest Resources?
 
-Resources accrue every day cycle within the game. Once your harvest your resources they will appear in your Iron bank. All Resources are tokens and can be traded.
+Resources accrue every day cycle within the game. Once your harvest your resources they will appear in your Iron bank. All Resources are tokens and can be traded on the AMM.
 
 #### Resource accrual cap
 
@@ -43,17 +41,17 @@ You use the Resources in order to build [buildings](./buildings#economic), summo
 
 ## The Raidable Vault
 
-Every Realm generates another stream of Resources and this stream accures directly into the realms Vault. This is what raiding Realms are after and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it at once, providing a hefty bonus. 
+Every Realm generates another stream of Resources that accures directly into the Realm's Raidable Vault. This is what raiding Realms are after and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it at once, providing a hefty bonus. 
 
-However, if you are attacked successfully, you will be depleted by 25% each time. This means you will need to wait until your vault refills until you can claim.
+However, if you are attacked successfully, your Raidable Vault will be depleted by 25% each time. This means you will need to wait until your vault refills until you can claim.
 
 ### Defending your vault
 
-You must build up your defensive Army in order to protect your Vault. If you choose not defend your Vault it will never reach 7 days of production and you will never be able to claim it.
+You must build up your defensive Army in order to protect your Vault. If you don't defend your Raidable Vault and are frequently attacked, it will never reach 7 days of production and you will never be able to claim it.
 
 ### Cool down between attacks
 
-If you are attacked, your Realm puts up a 30m protective barrier which stops it from being attacked within that time period.
+If you are attacked, whether sucessessful or not, your Realm is given a 30 minute cool down period where it can't be attacked.
 
 ---
 
