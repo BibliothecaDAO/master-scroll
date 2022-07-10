@@ -126,7 +126,7 @@ export default function DocSidebarItemCategory({
           'menu__list-item-collapsible--active': isCurrentPage,
         })}>
         <Link
-          className={clsx('menu__link font-display tracking-wide font-semibold text-[#f5eee6]', {
+          className={clsx('menu__link font-display tracking-wide   text-[#f5eee6]', {
             'menu__link--sublist': collapsible,
             'menu__link--sublist-caret': !href && collapsible,
             'menu__link--active ': isActive,
