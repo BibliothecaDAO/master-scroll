@@ -35,7 +35,7 @@ If you don't claim your Resources daily, they will accrue for up to 3 day cycles
 
 #### What do Resources do?
 
-You use the Resources in order to build [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/economics/amm). They are the economic layer of this world and are scarce, so use them wisely.
+You use the Resources in order to build [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
 
 
 ---
