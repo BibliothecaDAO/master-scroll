@@ -18,10 +18,10 @@ description: An overview of the game
 
 ### Onchain & eternal
 
-Once production is live, these game will exist for the length of Ethereum. Yes, it is run on StarkNet, but the all state change will still be posted to Ethereum, this is why we choose an L2 to run the game over a sidechain.
+Once the production version of the game is live, it will exist for the length of Ethereum's data storage. Yes, it is run on StarkNet, but the all state change will still be posted to Ethereum, one of the primary determinants in our choice of an L2 to run the game over a sidechain.
 
 ### Resources are tradable and liquid
-All the resources within this gameworld are tradable tokens. You use these resources to build up and defend your Realm.
+All the resources (and many other assets) within this gameworld are user-owned tradable tokens. You use these resources to create buildings and troops to improve asnd defend your Realm, and pillage resources from others in your quest for greatness.
 
 
 #### Difficult player choices
@@ -30,7 +30,7 @@ Players must make difficulty choices in this game. Every action has a reaction. 
 
 #### Realms are the beginning
 
-The game we describe in this section is the base layer for an ever evolving onchain world. It will lay the economic and social layer needed in order to build a world able to support 1m players.
+The game we describe in this section is the base layer for an ever evolving onchain world. It will form the macroeconomic and social layer necessary in order to terraform a world and culture to support 1m+ players.
 
 ---
 ![alt](/img/game/military-path.png)

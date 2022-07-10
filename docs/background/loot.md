@@ -22,7 +22,7 @@ Read more > https://loot.foundation/
 
 ## Why we build on the Loot
 
-Loot is unique — there is no central team, no central roadmap, no company that backs it.
+Loot is unique — in the spirit of CC0, there is no central team, no central roadmap and no company that backs it.
 
 Loot is a decentralized community of builders, creators, artists, writers and players who are building a world, together.
 

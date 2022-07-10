@@ -20,7 +20,7 @@ The 8000 Realms were procedurally generated as black and white SVG files, but ha
 
  ## 22 Resources
 
-Every Realm contains at least one/a combination of the 22 different resources discovered thus far in the Lootverse, each with their varying rarity.
+Every Realm contains at least one (up to 7) of the 22 different resources discovered thus far in the Lootverse, each with their varying rarity.
 
 ![alt](/img/game/resources.png)
 
