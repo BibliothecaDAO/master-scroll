@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Adventurers: The Players
+# Adventurers
 
 Adventurers is a new type of ERC721 contract that is upgradable and composable on StarkNet. Adventurers are free to claim, and with StarkNet’s very competitive transaction fees they are as free to play as it gets on-chain. Adventurer are the key to playing many games in the hyperverse and are a crucial element of the economy.
 

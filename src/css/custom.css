@@ -74,3 +74,7 @@ body {
 table th {
   @apply uppercase tracking-widest
 }
+
+a {
+  @apply font-semibold hover:no-underline hover:text-white/70  px-1
+}
