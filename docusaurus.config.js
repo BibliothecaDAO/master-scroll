@@ -66,13 +66,15 @@ const config = {
     },
   ],
   themeConfig:
+  
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: false,
+        disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+
       navbar: {
         title: 'Master Scroll',
         logo: {
