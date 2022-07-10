@@ -8,6 +8,7 @@ tags:
 ---
 
 # Generating Resources
+---
 
 > 22 Resources of varying rarity have been discovered across the Realms, ranging from common Coal & Wood to the rare and magical Mithral & Dragonhide. 
 
@@ -34,14 +35,14 @@ If you don't claim your Resources daily, they will accrue for up to 3 day cycles
 
 #### What do Resources do?
 
-You use the Resources in order to build [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/tokenomics/amm). They are the economic layer of this world and are scarce, so use them wisely.
+You use the Resources in order to build [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
 
 
 ---
 
 ## The Raidable Vault
 
-Every Realm generates another stream of Resources that accures directly into the Realm's Raidable Vault. This is what raiding Realms are after and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it at once, providing a hefty bonus. 
+Every Realm generates another stream of Resources that accrues directly into the Realm's Raidable Vault. This is what raiding Realms are after and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it at once, providing a hefty bonus. 
 
 However, if you are attacked successfully, your Raidable Vault will be depleted by 25% each time. This means you will need to wait until your vault refills until you can claim.
 
@@ -51,7 +52,7 @@ You must build up your defensive Army in order to protect your Vault. If you don
 
 ### Cool down between attacks
 
-If you are attacked, whether sucessessful or not, your Realm is given a 30 minute cool down period where it can't be attacked.
+If you are attacked, whether successful or not, your Realm is given a 30 minute cool down period where it can't be attacked.
 
 ---
 

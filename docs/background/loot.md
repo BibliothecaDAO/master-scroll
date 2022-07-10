@@ -3,21 +3,38 @@ sidebar_position: 4
 description: The big bang of CC0, collaborative, composable, on-chain gaming
 tags:
   - loot
+description: Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multi-media.
 ---
 
-# ⬛ Loot
+# Loot
 ---
 
 ![Loot Bag](/img/loot.png)
 
-## A time before loot and a time after
+## What is Loot
 
-For anyone curious about building an interconnected public domain "world", *Loot is the place to do it*. This is the first globally scaled, community steered, decentralized, composable world-building project. Bibliotheca DAO is at the heart of it, shepherding the lootverse forward technologically and strategically.
+Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multi-media.
+
+The Lootverse is a collection of NFT projects, games, art, stories and multimedia backed by an active community of players, builders, artists, writers and creators.
+
+"OG Loot" refers to the original 8,000 Loot bags released by Dom Hoffman on 8/27/2021, a composable "primitive" for the Lootverse.
+
+Read more > https://loot.foundation/
 
 ## Why we build on the Loot
 
-We love this community, we want to build with builders, we want to build in the open, we believe in the power of loot as a "forever foundation" for a fantasy ecosystem that will grow in importance for years/decades/generations to come.
+Loot is unique — there is no central team, no central roadmap, no company that backs it.
 
-## Our plans for the lootverse
+Loot is a decentralized community of builders, creators, artists, writers and players who are building a world, together.
 
-[distilation contract]
+It's this community of builders that we are building with. Together, we are bringing this open source world to life.
+
+## Our plans for the Lootverse
+
+We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a distilation contract. 
+
+OG bag holders will be able to distil bags and will receive the elements as individual NFTs on StarkNet.
+
+These NFTs will evolve over time and will be equipable to an onchain character.
+
+![Loot Bag](/img/game/loot-distilation.png)

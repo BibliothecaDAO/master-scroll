@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Resource AMM
+title: Resource AMM on StarkNet
 description: Become a liquidity provider and trader of resources on the StarkNet native AMM
 ---
 
