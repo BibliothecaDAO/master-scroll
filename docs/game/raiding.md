@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-description: Raiding is a vital part to every Realms strategy.
+description: Raiding is a vital part to every Lord's strategy.
 tags:
   - raiding
   - resources

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: With your generated or purchased Resources, you can begin to develop and fortify your Realm
 tags:
   - buildings
   - decay
@@ -10,7 +11,7 @@ tags:
 
 ---
 
-> With your Resources generated, you can begin to develop and fortify your Realm. Each building will have a positive effect on one statistic but will negatively impact another. It is your job as an ruler to balance this.
+> With your generated or purchased Resources, you can begin to develop and fortify your Realm. Each building will have a positive effect on one statistic but will negatively impact another. It is your job as an ruler to balance this.
 
 
 

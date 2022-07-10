@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: Troops and population require food for vitality and increased Resource production
 tags:
   - food
   - rivers

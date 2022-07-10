@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: TLDR of section
+description: An overview of the economics of the Realmverse.
 ---
 
 # Overview
@@ -18,7 +18,7 @@ The sinks and burns throughout the network all help to accure value to assets wi
 
 ### Lords fees
 
-All products released by the DAO have some level of value capture which is returned to the DAO. Initially, most of the $LORDS fees from the protocol will come from the AMM and in game purchases using LORDS.
+All products released by the DAO have some level of value capture which is returned to the DAO. Initially, most of the $LORDS fees from the protocol will come from the AMM and in game purchases using $LORDS.
 
 ### Ethereum Fees
 
