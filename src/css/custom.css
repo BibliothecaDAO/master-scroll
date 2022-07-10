@@ -21,8 +21,6 @@
   --ifm-color-primary-lighter: #000000;
   --ifm-color-primary-lightest: #000000;
   --ifm-background-color: #fdfef6;
-  --ifm-code-font-size: 110%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -68,7 +66,7 @@ button {
 }
 
 body {
-  @apply text-xl text-[#f5eee6]
+  @apply text-xl 
 }
 
 table th {
