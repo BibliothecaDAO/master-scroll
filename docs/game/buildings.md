@@ -58,11 +58,11 @@ A Lord must build military buildings to unlock the ability to muster troops for 
 
 There are four types of military buildings and they unlock different army units in each of the three tiers:
 
-| Building | Decay Rate | Tier 1 Unit | Tier 2 Unit | Tier 3 Unit |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Archer House | x | Skirmisher | Longbow | Crossbow |
-| Barracks | x | Pikeman | Knight | Paladin |
-| Castle | x | Ballista | Mangonel | Trebuchet |
+| Building | Tier 1 Unit | Tier 2 Unit | Tier 3 Unit |
+| ----------- | ----------- | ----------- | ----------- |
+| Archer House | Skirmisher | Longbow | Crossbow |
+| Barracks | Pikeman | Knight | Paladin |
+| Castle | Ballista | Mangonel | Trebuchet |
 | Mage Tower | x | Apprentice | Mage | Archanist |
 
 ### Agricultual 

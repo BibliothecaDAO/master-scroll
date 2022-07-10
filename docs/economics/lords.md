@@ -17,7 +17,7 @@ The $LORDS token is the ERC20 token underpinning the Realmverse, giving a fungib
 ---
 
 
-A hard cap of 500 million Lords has been set, with distribution highlighted in the following chart. This distribution is governed via the Bibliotheca DAO and may change depending on the direction as voted.
+A hard cap of 500 million $LORDS has been set, with distribution highlighted in the following chart. This distribution is governed via the Bibliotheca DAO and may change depending on the direction as voted.
 
 ![alt](/img/allocation.png)
 
@@ -36,7 +36,7 @@ The DAO retains a large proportion of the tokens which it could choose to use fo
 
 ### Development Fund
 
-5% of the Lords is allocated to the first development fund used to build the original game.
+5% of $LORDS is allocated to the first development fund used to build the original game.
 
 ### Journey Contract
 
