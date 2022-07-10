@@ -76,5 +76,5 @@ table th {
 }
 
 a {
-  @apply font-semibold hover:no-underline hover:text-white/70  px-1
+  @apply font-semibold hover:no-underline hover:text-white/70 
 }
