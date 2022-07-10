@@ -21,9 +21,12 @@ tags:
 
 Once a Realm is settled in the game it will begin generating 25 of each Resource it has per day. This is the base amount that generates.
 
+
 #### How do I increase Resource production?
 
 By increasing the population on a Realm, you will increase the number of workers and therefore increase the Resource production. To do this you must build worker huts (see [buildings](./buildings#economic)). 
+
+![alt](/img/game/resource-production.png)
 
 #### How do I harvest Resources?
 
