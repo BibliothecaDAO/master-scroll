@@ -7,7 +7,6 @@ sidebar_position: 2
 
 ## The Open Item Table
 
-[TODO: insert graphic of these tokens and the item table]
 
 The project is designed around a core set of composable DAO governed contracts, extendable in the future via modules and upgrading of the core item table contracts. 
 
