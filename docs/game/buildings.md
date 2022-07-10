@@ -19,7 +19,7 @@ tags:
 
 ## Spatial areas
 
-Buildings take up square meters on your Realm so you must choose which ones to build.
+Buildings take up square meters (sqm) on your Realm so you must choose which ones to build.
 
 
 You can calculate the sqm of the Realm by:
@@ -52,7 +52,7 @@ Once you build Worker Huts they will decay, so it is not a one-time purchase. Wo
 
 ### Military
 
-A Lord must build military buildings to unlock the ability to muster troops for raiding Realms and defending their Raidable Vault. 
+A Lord must build military buildings to unlock the ability to summon troops for raiding Realms and defending their Vault. 
 
 There are four types of military buildings and they unlock different army units in each of the three tiers:
 
@@ -67,7 +67,7 @@ There are four types of military buildings and they unlock different army units 
 
 **Farms & Fish Traps**
 
-To keep your happiness level in a positive, a Realm Lord must ensure that there is enough food for the population at any given time. The higher the population (Worker Huts) and military units on a Realm, the more food required to maintain happiness and therefore increase Resource output.
+To keep a positive happiness level, a Realm Lord must ensure that there is enough food for the population at any given time. The higher the population (Worker Huts) and military units on a Realm, the more food required to maintain happiness and therefore increase Resource output.
 
 There are two agricultural buildings in the Realmverse and they produce two different food:
 

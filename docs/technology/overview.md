@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Innovative technology solutions for innovative games
 ---
 
 # Overview & Keypoints

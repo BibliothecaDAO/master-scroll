@@ -19,7 +19,7 @@ tags:
 
 #### How are Resources generated?
 
-Once a Realm is settled in the game it will begin generating 25 of each Resource it has per day. This is the base amount that generates.
+Once a Realm is settled in the game it will begin generating 25 of each Resource it has per day. This is the base amount that generates, but is influence by your choices in managing the Realm.
 
 
 #### How do I increase Resource production?
@@ -30,24 +30,24 @@ By increasing the population on a Realm, you will increase the number of workers
 
 #### How do I harvest Resources?
 
-Resources accrue every day cycle within the game. Once your harvest your resources they will appear in your Iron bank. All Resources are tokens and can be traded on the AMM.
+Resources accrue every day cycle within the game. Once your harvest your resources they will appear in your Iron Bank. All resources are tokens and can be traded on the AMM (paired with Lords).
 
 #### Resource accrual cap
 
-If you don't claim your Resources daily, they will accrue for up to 3 day cycles. After 3 days they will not longer accrue until you claim them. 
+If you don't claim the resources on your realm, they will accrue for up to 3 day cycles. After 3 days they will not accrue any more until claimed. 
 
 #### What do Resources do?
 
-You use the Resources in order to build [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
+You use the Resources in order to construct [buildings](./buildings#economic), summon [troops](./troops-squads) and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
 
 
 ---
 
 ## The Raidable Vault
 
-Every Realm generates another stream of Resources that accrues directly into the Realm's Raidable Vault. This is what raiding Realms are after and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it at once, providing a hefty bonus. 
+Every Realm generates another stream of resources that accrue directly into the Realm's Raidable Vault. This is what raiding Realms are attempting to pillage, and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it at once, providing a hefty bonus. 
 
-However, if you are attacked successfully, your Raidable Vault will be depleted by 25% each time. This means you will need to wait until your vault refills until you can claim.
+However, if you are attacked successfully, your Raidable Vault will be depleted by 25% each time. This means you will need to wait longer until your vault refills before you can claim.
 
 ### Defending your vault
 
@@ -55,7 +55,7 @@ You must build up your defensive Army in order to protect your Vault. If you don
 
 ### Cool down between attacks
 
-If you are attacked, whether successful or not, your Realm is given a 30 minute cool down period where it can't be attacked.
+If you are attacked, whether successfully or not, your Realm is given a 30 minute cool down period where it can't be attacked.
 
 ---
 
@@ -63,5 +63,5 @@ If you are attacked, whether successful or not, your Realm is given a 30 minute 
 
 #### The AMM
 
-Resources are tradable for $LORDS via the AMM. If you have excess Resources you can trade them here for $LORDS to hold, or in turn, use to buy Resources you don't generate.
+Resources are tradable for $LORDS via the AMM. If you have excess resources you can trade them for $LORDS to hold, or in turn, use to buy the resources you don't generate but need for other operations on the realm.
 

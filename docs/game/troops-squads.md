@@ -42,4 +42,6 @@ If a troop is slain they are removed from the squad and the game.
 ### The health of the squad
 Each troop has a different vitality statistic that determines how many health it has. If a troop is hurt in battle it does not rejuvenate and heal. Once vitality reaches 0 the troop is dead.
 
+> “An army marches on its belly. “ - Frederick the Great (or Napoleon)
+
 If you run out of food the vitality of the Troops are permanently effected by 50%, making them easier targets. You must keep your storehouse full!

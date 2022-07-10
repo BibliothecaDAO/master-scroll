@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: The Ethereum L2 STARK scalability solution
 ---
 
 # StarkNet & Validity Proofs

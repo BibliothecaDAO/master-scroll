@@ -12,7 +12,7 @@ tags:
 
 ---
 
-> If you want to increase your Resource production (population) or have a military to attack/defend (troops) with a higher vitality, you will need to provide your Realm with food. Food is cheap and every realm can produce it, but you must manage it wisely.
+> If you want to increase your Resource production (population) or have a military to attack/defend (troops) with a higher vitality, you will need to provide your Realm with food. Food is cheap and every realm can produce (or purchase) it, but you must manage it wisely or suffer the consequences.
 
 
 
@@ -37,9 +37,9 @@ Unlike Farms and Fish Traps, Store Houses take up space in your realms spatial a
 
 Once you harvest either $WHEAT/$FISH from your Farms/Traps, you have the option to trade any excess on the AMM for $LORDS.
 
-In turn, this provides the opportunity for other Lords to purchase them instead of having to build Farms/Traps and harvesting themselves. Either a Lord with low Rivers/Harbors or simply being time poor can benefit from this. 
+In turn, this provides the opportunity for other Lords to purchase them instead of having to build Farms/Traps and harvesting themselves. A Lord with low Rivers/Harbors with a penchance for raiding, or simply being time poor can benefit from this, while providing a $LORDS stream to productive farmers. 
 
-Wheat and Fish will have separate markets so this will add an interesting economic factor to the game.
+Wheat and Fish will be traded separately, and utility related to net consuptions, will adding an interesting economic factor to the game.
 
 ## Factors to consider
 
