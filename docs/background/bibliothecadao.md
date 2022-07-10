@@ -15,7 +15,7 @@ BibliothecaDAO spawned from the desire to graph all the lootverse together but h
 
 ## Our Aspirations
 
-Shepherding the development of the first open-source MMOCCG (Massively Multiplayer On-Chain Composable Game) built on top of STARKS (StarkNet). Once this game is thriving the development learned will be applied into the next eternal game with the long term goal of become the cornerstone development house for building on-chain games.
+Shepherding the development of the first open-source MMOCCG (Massively Multiplayer On-Chain Composable Game) built on top of STARKS (StarkNet). Once this game is thriving the development learned will be applied into the next eternal game with the long term goal of become the cornerstone development house for building on-chain games. The initial token linking the Realmverse is $LORDS, and the current allocation (as determined by the DAO) is as follows:
 
 
 
