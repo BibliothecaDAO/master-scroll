@@ -27,7 +27,7 @@ export default function DocSidebarItemLink({
       key={label}>
       <Link
         className={clsx(
-          'menu__link font-display tracking-wide  text-[#f5eee6]',
+          'menu__link font-display tracking-wide  text-[#f5eee6] font-thin',
           !isInternalLink && styles.menuExternalLink,
           {
             'menu__link--active  font-semibold': isActive,
