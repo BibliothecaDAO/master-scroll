@@ -3,6 +3,9 @@ sidebar_position: 1
 ---
 
 # Overview & Keypoints
+
+---
+
 Bibliotheca employs a variety of innovative best in class open-source technologies to create engaging user and developer experiences
 
 ## Modules
