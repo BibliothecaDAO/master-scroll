@@ -42,15 +42,13 @@ Each building decays at a different rate, for example, Castles decay slower than
 
 ## Building Types
 
-[buildings and decay time table]
-
 ### Economic
 
 Worker Huts are building that increase your working population. The greater your popualation, the greater the output of your Resources. A consquence of having a greater population is that you will require more food otherwise your Resource generation will be capped at 25 per day - [read more here](./food)
 
 Worker Huts have a fixed and relative cost based on the Resources the Realm has. For example, a Realm with only Wood can build a Worker Hut for 10x Wood, while a Realm with Diamonds, Sapphire and Mithral will need to pay 10 of each. 
 
-Once you build Woker Huts they will decay, so it is not a one-time purchase. Worker Huts decay over the course of 24 hours once building, and once fully decayed the population is decreased again.
+Once you build Worker Huts they will decay, so it is not a one-time purchase. Worker Huts decay over the course of 24 hours once building, and once fully decayed the population is decreased again.
 
 ### Military
 
@@ -63,16 +61,29 @@ There are four types of military buildings and they unlock different army units 
 | Archer House | Skirmisher | Longbow | Crossbow |
 | Barracks | Pikeman | Knight | Paladin |
 | Castle | Ballista | Mangonel | Trebuchet |
-| Mage Tower | x | Apprentice | Mage | Archanist |
+| Mage Tower | Apprentice | Mage | Archanist |
 
-### Agricultual 
+### Agricultural 
 
-To keep your happiness level in a positive, a Realm Lord must ensure that there is enough food for the population at any given time. The higher the population (Worker Huts) and military units on a Realm, the more food required to maintain happiness and therefore increase Resouce output.
+**Farms & Fish Traps**
 
-There are two agricultural buildings in the Realmverse and they produce two different food: Farms produce Wheat, and Fishing Traps produce Fish. 
+To keep your happiness level in a positive, a Realm Lord must ensure that there is enough food for the population at any given time. The higher the population (Worker Huts) and military units on a Realm, the more food required to maintain happiness and therefore increase Resource output.
 
+There are two agricultural buildings in the Realmverse and they produce two different food:
 
+| Building | Food Output | # of harvests |
+| ----------- | ----------- | ----------- |
+| Farm | Wheat | 10 Harvests |
+| Fish Traps | Fish  | 10 Harvests |
 
-Farms + Fishing
+Once you have harvested your farm/fish trap 10 times, you will need to build them again to generate further food yields. 
 
-Storehouse
+:::note
+Wheat and fish can be sold/purchased on the AMM
+:::
+
+**Storehouses**
+
+To distribute food to your population and troops, you must convert some into a storehouse.
+
+Storehouses take up spatial areas on your Realm so you must be strategic about your buildings to ensure you always have enough room to feed your population, and therefore increase your Resource output and troop's vitality.  
