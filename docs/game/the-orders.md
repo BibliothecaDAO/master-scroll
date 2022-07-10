@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: There are 16 Orders that were discovered in the deep lore of Loot, each of which 500 Realms are assigned to.
 ---
 
 # The Orders

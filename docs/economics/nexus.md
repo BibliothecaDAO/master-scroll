@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: Single-sided Staking of $LORDS and LP tokens
 ---
 
 # The Nexus
@@ -48,7 +49,7 @@ Transactions within the protocol rely on trading with $LORDS. And with these tra
 | AMM (Automatic Merchant) | 1.5% |
 | In-game items | 100% |
 
-## Where do the $LORDS fees go? 
+### Where do the $LORDS fees go? 
 
 The fees flow into a splitter account which manages the % between the Nexus and the Bibliotheca DAO Treasury. The division % is still to be determined and will be adjusted via a DAO vote.
 
@@ -56,11 +57,15 @@ The fees flow into a splitter account which manages the % between the Nexus and 
 
 ---
 
-## The Nexus Rewards
+### The Nexus Rewards
 
 *Players have two options to choose from, or can choose both:*
 
-### 1. $LORDS Offering (single-sided $LORDS staking)
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="1. $LORDS Offering (single-sided $LORDS staking)" label="1. $LORDS Offering (single-sided $LORDS staking)" default>
 
 The $LORDS are offered to the Nexus and in return receive run-off from the network's overflow.
 
@@ -68,14 +73,11 @@ The $LORDS are offered to the Nexus and in return receive run-off from the netwo
 
 Players will stake their $LORDS in the Nexus and be rewarded per block according to the previous 24hr trading period. Your reward is calculated according to your share of the over offerings.
 
----
 
-![alt](/img/game/nexus-single-sided.png)
+![alt](/img/game/nexus-single-sided.png)  
 
----
-
-
-### 2. Liquidity Merchant (LP token staking)
+</TabItem>
+  <TabItem value="2. Liquidity Merchant (LP token staking)" label="2. Liquidity Merchant (LP token staking)">
 
 The Nexus likes to be fed a steady diet of Resource/$LORDS position tokens. In return, it rewards Liquidity Merchants with $LORDS.
 
@@ -91,10 +93,9 @@ By staking your LP tokens you will earn both fees:
 
 [Read more about the AMM]
 
----
+![alt](/img/game/amm-rewards.png)  
+</TabItem>
+</Tabs>
 
-![alt](/img/game/amm-rewards.png)
-
----
 
 

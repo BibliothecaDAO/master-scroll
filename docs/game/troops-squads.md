@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: In the midst of chaos, there is also opportunity. Summon troops to help defend your Realm, or quest to foreign lands in order to steal riches.
 ---
 
 # Troops & Squads

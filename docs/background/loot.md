@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: The big bang of CC0, collaborative, composable, on-chain gaming
 tags:
   - loot
 ---

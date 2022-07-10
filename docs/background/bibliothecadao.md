@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Shepherding the development of the first open-source MMOCCG (Massively Multiplayer On-Chain Composable Game) built on top of STARKS (StarkNet).
 tags:
   - dao
 ---

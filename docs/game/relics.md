@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: There are 8000 ancient Relics across the Realmverse and one exists on each Realm.
 ---
 
 # Relics

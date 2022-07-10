@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: A StarkNet native NFT marketplace denominated in ETH. 
 ---
 
 # NFT Marketplace

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: To earn your $LORDS reward, players must defeat Goblin Towns.
 tags:
   - goblins
   - $LORDS

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: All the tokens of the Realmverse.
 ---
 
 # Tokens
