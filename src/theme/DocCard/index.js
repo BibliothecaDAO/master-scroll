@@ -9,7 +9,7 @@ function CardContainer({href, children}) {
   return (
     <Link
       href={href}
-      className={clsx('card px-5 pb-2 pt-4 rounded shadow-inner w-full bg-black/30 hover:-translate-y-1 duration-150 transform transition-all hover:no-underline')}>
+      className={clsx('card px-7 py-4 pt-8 rounded shadow-inner w-full bg-black/20 hover:-translate-y-1 duration-150 transform transition-all hover:no-underline hover:bg-black/30')}>
       {children}
     </Link>
   );
@@ -17,12 +17,12 @@ function CardContainer({href, children}) {
 function CardLayout({href, icon, title, description}) {
   return (
     <CardContainer href={href}>
-      <h2 className={clsx('text--truncate text-2xl')} title={title}>
+      <h2 className={clsx('text--truncate text-3xl')} title={title}>
         {title}
       </h2>
       {description && (
         <p
-          className={clsx('text--truncate text-sm')}
+          className={clsx(' text--truncate text-body mt-1 text-[#f5eee6]/80')}
           title={description}>
           {description}
         </p>

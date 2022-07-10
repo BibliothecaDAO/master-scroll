@@ -1,12 +1,13 @@
 ---
 sidebar_position: 5
+description: The NFT marketplace is an in development project of the DAO
 ---
 
 # NFT Marketplace
 
 ---
 
-The NFT marketplace is an indevelopment project of the DAO. On it all NFT assets within the game world will be traded for in ETH. All commissions from this marketplace will flow back into the DAO for usage in continuing development.
+The NFT marketplace is an in development project of the DAO. On it all NFT assets within the game world will be traded for in ETH. All commissions from this marketplace will flow back into the DAO for usage in continuing development.
 
 ### assets on the market
 

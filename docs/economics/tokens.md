@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: The project is designed around a core set of composable DAO governed contracts, extendable in the future via modules and upgrading of the core item table contracts. 
 ---
 
 # Tokens

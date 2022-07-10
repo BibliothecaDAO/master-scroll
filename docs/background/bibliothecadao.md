@@ -2,9 +2,10 @@
 sidebar_position: 2
 tags:
   - dao
+description: BibliothecaDAO spawned from the desire to graph all the lootverse together but has grown into something far greater with grand ambitions.
 ---
 
-# 💼 Bibliotheca DAO
+# Bibliotheca DAO
 
 ---
 

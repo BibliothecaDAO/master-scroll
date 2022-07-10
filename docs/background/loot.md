@@ -2,9 +2,10 @@
 sidebar_position: 4
 tags:
   - loot
+description: Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multi-media.
 ---
 
-# ⬛ Loot
+# Loot
 ---
 
 ![Loot Bag](/img/loot.png)
@@ -17,6 +18,8 @@ The Lootverse is a collection of NFT projects, games, art, stories and multimedi
 
 "OG Loot" refers to the original 8,000 Loot bags released by Dom Hoffman on 8/27/2021, a composable "primitive" for the Lootverse.
 
+Read more > https://loot.foundation/
+
 ## Why we build on the Loot
 
 Loot is unique — there is no central team, no central roadmap, no company that backs it.
@@ -25,7 +28,7 @@ Loot is a decentralized community of builders, creators, artists, writers and pl
 
 It's this community of builders that we are building with. Together, we are bringing this open source world to life.
 
-## Our plans for the lootverse
+## Our plans for the Lootverse
 
 We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a distilation contract. 
 

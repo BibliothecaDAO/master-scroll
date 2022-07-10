@@ -68,7 +68,7 @@ button {
 }
 
 body {
-  @apply text-xl text-[#f5eee6] ;
+  @apply text-xl text-[#f5eee6]
 }
 
 table th {
