@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Lords Token
+title: $LORDS Token
 description: The $LORDS Token is the ERC20 asset underpinning the Realmverse and beyond, giving a fungible method of entry and exit from the platform, as well as trading various assets and aligning the interests of Realm owners and other stakeholders.
 tags:
   - $LORDS
