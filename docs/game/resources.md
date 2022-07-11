@@ -19,7 +19,7 @@ tags:
 
 #### How are Resources generated?
 
-Once a Realm is settled in the game it will begin generating 25 of each Resource it has per day. This is the base amount that generates, but is influenced by your choices in managing the Realm.
+Once a Realm is settled in the game it will begin generating 250 of each Resource it has per day. This is the base amount that generates, but is influenced by your choices in managing the Realm.
 
 
 #### How do I increase Resource production?

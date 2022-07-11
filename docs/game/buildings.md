@@ -19,14 +19,14 @@ tags:
 
 ## Spatial areas
 
-Buildings take up square meters (sqm) on your Realm so you must choose which ones to build.
+Buildings take up square space on your Realm so you must choose which ones to build.
 
 
 You can calculate the sqm of the Realm by:
 
-> Regions * Cities + 25 = buildable sqm area
+> Regions * Cities + 25 = buildable space
 
-The above formula will give you the Realm’s max building sqm (which is the constraint) and you can’t build more than this at any given time. If you have built on all available sqm, you must wait for decay to happen or demolish buildings to create space. 
+The above formula will give you the Realm’s max building sqm (which is the constraint) and you can’t build more than this at any given time. If you have built on all available space, you must wait for decay to happen or demolish buildings to create space. 
 
 ---
 
@@ -44,7 +44,7 @@ Each building decays at a different rate, for example, Castles decay slower than
 
 ### Economic
 
-Worker Huts are buildings that increase your working population. The greater your population, the greater the output of your Resources. A consquence of having a greater population is that you will require more food otherwise your Resource generation will be capped at 25 per day - [read more here](./food)
+Worker Huts are buildings that increase your working population. The greater your population, the greater the output of your Resources. A consequence of having a greater population is that you will require more food otherwise your Resource generation will be capped at 250 per day - [read more here](./food)
 
 Worker Huts have a fixed and relative cost based on the Resources the Realm has. For example, a Realm with only Wood can build a Worker Hut for 10x Wood, while a Realm with Diamonds, Sapphire and Mithral will need to pay 10 of each. 
 

@@ -15,6 +15,11 @@ description: An overview of the game
 
 ---
 
+:::warning
+All statistics and figures in this document are subject to change slightly as the alpha and beta versions of the game are released and balanced.
+
+:::
+
 :::note
 You require a Realm in order to participate within this game ([OpenSea](https://opensea.io/collection/lootrealms)
 ). The first expansion of this game will be centered around the Adventurers NFT which will be free to play.
@@ -31,7 +36,7 @@ All the resources (and many other assets) within this gameworld are user-owned t
 
 #### Difficult player choices
 
-Players must make difficult choices in this game. Every action has a reaction. Build too many troops and buildings and your food supplies will be depleted. Leave your vault unprotected and you will not be able to harvest the 7 day bounty. Optimize your builds and keep your digital serfs happy in order to rule in Eternal Imperio.
+Players must make difficult choices in this game. Every action has a reaction. Build too many troops and buildings and your food supplies will be depleted. Leave your vault unprotected and you will not be able to harvest the 7 day bounty. Optimize your builds and keep your digital serfs happy in order to rule over your Realm.
 
 #### Realms are the beginning
 
