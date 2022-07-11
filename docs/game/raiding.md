@@ -13,7 +13,7 @@ tags:
 ## Pillage other Realms for resources
 
 
-Once a Realm has summoned army troops, it is able to commence a raid on any Realm belonging to a different Order. If their troops are victorious, they are receive 25% of the defending realm's Vault Realms must defend their vault (with various buildings and troops) if they do not wish to have it pillaged frequently.
+Once a Realm has summoned army troops, it is able to commence a raid on any Realm belonging to a different Order. If their troops are victorious, they receive 25% of the defending realm's Vault. Realms must defend their vault (with various buildings and troops) if they do not wish to have it pillaged frequently.
 
 ---
 

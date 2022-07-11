@@ -41,7 +41,7 @@ Each item will have its own set of dynamic statistics that will evolve with usag
 
 ### Equipping Items
 
-Adventurers will be able to equip these items in any combination they see suits them best.
+Adventurers will be able to equip these items in any combination that suits them best.
 
 ### Trading
 

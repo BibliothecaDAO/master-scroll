@@ -4,15 +4,15 @@ sidebar_position: 2
 
 # Adventurers
 
-Adventurers is a new type of ERC721 contract that is upgradable and composable on StarkNet. Adventurers are free to claim, and with StarkNet’s very competitive transaction fees they are as free to play as it gets on-chain. Adventurer are the key to playing many games in the hyperverse and are a crucial element of the economy.
+Adventurers is a new type of ERC721 contract that is upgradable and composable on StarkNet. Adventurers are free to claim, and with StarkNet’s very competitive transaction fees they are as free to play as it gets on-chain. Adventurers are the key to playing many games in the hyperverse and are a crucial element of the economy.
 
 ### How is an Adventurer Born?
 
-Adventurers will be claimed directly on StarkNet for substantially lower mint fees. Once a Adventurers is claimed, the player will be able to equip Loot items that have been distilled from the Item fountain. Adventurers will be able to be traded like any other NFT.
+Adventurers will be claimed directly on StarkNet for substantially lower mint fees. Once an Adventurer is claimed, the player will be able to equip Loot items that have been distilled from the Item fountain. Adventurers will be able to be traded like any other NFT.
 
 ### The Genetics
 
-When the Adventurers is selected you will be able to select their Race and Sex. These will be written on-chain permanently.
+When the Adventurer is selected you will be able to select their Race and Sex. These will be written on-chain permanently.
 
 
 ### The Statistics
@@ -30,7 +30,7 @@ Once the Adventurer is equipped they will be able to quest in various parts of t
 
 ### Crafting
 
-A key component of the hyperverse is crafting, and anyone with a Adventurer is eligible for it. This is the topic of the next section.
+A key component of the hyperverse is crafting, and anyone with an Adventurer is eligible for it. This is the topic of the next section.
 
 ### Interoperability with new modules
 

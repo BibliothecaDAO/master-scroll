@@ -38,7 +38,7 @@ Realms exist within this world as tradable NFTs on the [Marketplace](./nft-marke
 
 ### Loot items
 
-We have developed an inflationary distallation contract of individual Loot items with a special Layer 1 to Layer 2 function. These inflate at a fixed rate and are available for trade and to equip onto their Adventurer.
+We have developed an inflationary distillation contract of individual Loot items with a special Layer 1 to Layer 2 function. These inflate at a fixed rate and are available for trade and to equip onto their Adventurer.
 
 ![Loot distilation](/img/game/loot-distilation.png)
 
