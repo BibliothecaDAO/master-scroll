@@ -30,10 +30,10 @@ It's this community of builders that we are building with. Together, we are brin
 
 ## Our plans for the Lootverse
 
-We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a distilation contract. 
+We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a distillation contract. 
 
 OG bag holders will be able to distil bags and will receive the elements as individual NFTs on StarkNet.
 
-These NFTs will evolve over time and will be equipable to an onchain character.
+These NFTs will evolve over time and will be equippable to an onchain character.
 
 ![Loot Bag](/img/game/loot-distilation.png)

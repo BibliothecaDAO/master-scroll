@@ -25,7 +25,7 @@ Farms are constrained to the number of Rivers you have in your Realm, and Fish T
 
 Once you have harvested or purchased $WHEAT/$FISH, you are able to distribute this food to your population and troops by converting the food into Store Houses. 
 
-Unlike Farms and Fish Traps, Store Houses take up space in your realms spatial area. The more Store Houses you build, the more space they take up, but the longer they feed your population and troops. Storehouse deplete at a rate according to how many troops and population you have. The greater the standing Army or buildings, the greater consumption rate.
+Unlike Farms and Fish Traps, Store Houses take up space in your realms spatial area. The more Store Houses you build, the more space they take up, but the longer they feed your population and troops. Storehouse deplete at a rate according to how many troops and population you have. The greater the standing Army or buildings, the greater the consumption rate.
 
 ---
 
@@ -39,9 +39,9 @@ Once you harvest either $WHEAT/$FISH from your Farms/Traps, you have the option 
 
 In turn, this provides the opportunity for other Lords to purchase them instead of having to build Farms/Traps and harvesting themselves. A Lord with low Rivers/Harbors with a penchance for raiding, or simply being time poor can benefit from this, while providing a $LORDS stream to productive farmers. 
 
-Wheat and Fish will be traded separately, and utility related to net consuptions, will adding an interesting economic factor to the game.
+Wheat and Fish will be traded separately, and utility related to net consuptions, will add an interesting economic factor to the game.
 
 ## Factors to consider
 
 ### Food consumption
-Workhuts, military buildings and troops all consume food. The more of these you have the faster the food is depleted. If you run out of food two major things happen, you production is capped at 25 and your troops vitality is capped at 50%.
+Work Huts, military buildings and troops all consume food. The more of these you have the faster the food is depleted. If you run out of food two major things happen, your production is capped at 25 and your troops vitality is capped at 50%.

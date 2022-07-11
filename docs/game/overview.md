@@ -16,13 +16,14 @@ description: An overview of the game
 ---
 
 :::note
-You require a Realm in order to participate within this game. The first expansion of this game will be centered around the Adventurers NFT which will be free to play.
+You require a Realm in order to participate within this game ([OpenSea](https://opensea.io/collection/lootrealms)
+). The first expansion of this game will be centered around the Adventurers NFT which will be free to play.
 
 :::
 
 ### Onchain & eternal
 
-Once the production version of the game is live, it will exist for the length of Ethereum's data storage. Yes, it is run on StarkNet, but the all state change will still be posted to Ethereum, one of the primary determinants in our choice of an L2 to run the game over a sidechain.
+Once the production version of the game is live, it will exist for the length of Ethereum's data storage. Yes, it is run on StarkNet, but all the state change will still be posted to Ethereum, one of the primary determinants in our choice of an L2 to run the game over a sidechain.
 
 ### Resources are tradable and liquid
 All the resources (and many other assets) within this gameworld are user-owned tradable tokens. You use these resources to create buildings and troops to improve and defend your Realm, and pillage resources from others in your quest for greatness.
@@ -30,7 +31,7 @@ All the resources (and many other assets) within this gameworld are user-owned t
 
 #### Difficult player choices
 
-Players must make difficulty choices in this game. Every action has a reaction. Build too many troops and buildings and your food supplies will be depleted. Leave your vault unprotected and you will not be able to harvest the 7 day bounty. Optimize your builds and keep your digital serfs happy in order to rule in Eternal Imperio.
+Players must make difficult choices in this game. Every action has a reaction. Build too many troops and buildings and your food supplies will be depleted. Leave your vault unprotected and you will not be able to harvest the 7 day bounty. Optimize your builds and keep your digital serfs happy in order to rule in Eternal Imperio.
 
 #### Realms are the beginning
 

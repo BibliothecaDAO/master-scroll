@@ -19,7 +19,7 @@ tags:
 
 #### How are Resources generated?
 
-Once a Realm is settled in the game it will begin generating 25 of each Resource it has per day. This is the base amount that generates, but is influence by your choices in managing the Realm.
+Once a Realm is settled in the game it will begin generating 25 of each Resource it has per day. This is the base amount that generates, but is influenced by your choices in managing the Realm.
 
 
 #### How do I increase Resource production?
@@ -30,7 +30,7 @@ By increasing the population on a Realm, you will increase the number of workers
 
 #### How do I harvest Resources?
 
-Resources accrue every day cycle within the game. Once your harvest your resources they will appear in your Iron Bank. All resources are tokens and can be traded on the AMM (paired with Lords).
+Resources accrue every day cycle within the game. Once you harvest your resources they will appear in your Iron Bank. All resources are tokens and can be traded on the AMM (paired with Lords).
 
 #### Resource accrual cap
 
@@ -55,7 +55,7 @@ You must build up your defensive Army in order to protect your Vault. If you don
 
 ### Cool down between attacks
 
-If you are attacked, whether successfully or not, your Realm is given a 30 minute cool down period where it can't be attacked.
+If you are attacked, whether successfully or not, your Realm is given a 30 minute cool down period where it can't be attacked again.
 
 ---
 
