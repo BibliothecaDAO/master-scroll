@@ -11,11 +11,11 @@ tags:
 
 ## History
 
-BibliothecaDAO spawned from the desire to graph all the lootverse together but has grown into something far greater with grand ambitions. It is the manifestation of our collective desire to build an alternative reality where anyone can participate. 
+BibliothecaDAO spawned from the desire to graph all the Lootverse together but has grown into something far greater with grand ambitions. It is the manifestation of our collective desire to build an alternative reality where anyone can participate. 
 
 ### Our Aspirations
 
-Shepherding the development of the first open-source MMOCCG (Massively Multiplayer On-Chain Composable Game) built on top of STARKS (StarkNet). Once this game is thriving the development learned will be applied into the next eternal game with the long term goal of become the cornerstone development house for building on-chain games. The initial token linking the Realmverse is $LORDS, and the current allocation (as determined by the DAO) is as follows:
+Shepherding the development of the first open-source MMOCCG (Massively Multiplayer On-Chain Composable Game) built on top of STARKS (StarkNet). Once this game is thriving the development learned will be applied on the next eternal game with the long term goal of becoming the cornerstone development house for building on-chain games. The initial token linking the Realmverse is $LORDS, and the current allocation (as determined by the DAO) is as follows:
 
 
 ### our Governance
@@ -24,7 +24,7 @@ Governance of the DAO is based around the Realm NFTs, however this will be expan
 
 ### Open source
 
-All code within this ecosystem is open source. Players are free to fork and tweak the game they see fit, the value of the ecosytem comes from not from constraining the code, but setting it free. It is no secret to why Linux is the most used operating system in the world, it's because of its open source nature. Anyone is free to build on Linux, and anyone is free to build and extend the Realms and Bibliotheca ecosystem.
+All code within this ecosystem is open source. Players are free to fork and tweak the game they see fit; the value of the ecosytem comes from not from constraining the code, but setting it free. It is no secret to why Linux is the most used operating system in the world, it's because of its open source nature. Anyone is free to build on Linux, and anyone is free to build and extend the Realms and Bibliotheca ecosystem.
 
 ### cc0 - no copyright reserved
 

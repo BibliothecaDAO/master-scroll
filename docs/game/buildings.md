@@ -44,11 +44,11 @@ Each building decays at a different rate, for example, Castles decay slower than
 
 ### Economic
 
-Worker Huts are building that increase your working population. The greater your popualation, the greater the output of your Resources. A consquence of having a greater population is that you will require more food otherwise your Resource generation will be capped at 25 per day - [read more here](./food)
+Worker Huts are buildings that increase your working population. The greater your population, the greater the output of your Resources. A consquence of having a greater population is that you will require more food otherwise your Resource generation will be capped at 25 per day - [read more here](./food)
 
 Worker Huts have a fixed and relative cost based on the Resources the Realm has. For example, a Realm with only Wood can build a Worker Hut for 10x Wood, while a Realm with Diamonds, Sapphire and Mithral will need to pay 10 of each. 
 
-Once you build Worker Huts they will decay, so it is not a one-time purchase. Worker Huts decay over the course of 24 hours once building, and once fully decayed the population is decreased again.
+Once you build Worker Huts they will decay, so it is not a one-time purchase. Worker Huts decay a set amount once every 24 hours, decay begins as soon as they are completed. If they decay completely your population will decrease until you rebuild them.
 
 ### Military
 

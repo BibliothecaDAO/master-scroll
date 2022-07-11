@@ -38,6 +38,6 @@ These traits play a vital role in constraining what can be built on each Realm.
 
 **Harbors** = the number of Fishing Traps that can be built.
 
-**Rivers** = the number of Famrs that can be built. 
+**Rivers** = the number of Farms that can be built. 
 
 
