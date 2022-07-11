@@ -15,6 +15,10 @@ description: An overview of the game
 
 ---
 
+:::note
+You require a Realm in order to participate within this game. The first expansion of this game will be centered around the Adventurers NFT which will be free to play.
+
+:::
 
 ### Onchain & eternal
 
