@@ -71,7 +71,7 @@ const config = {
     ({
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: true,
+        disableSwitch: false,
         respectPrefersColorScheme: true,
       },
 
@@ -95,7 +95,7 @@ const config = {
         links: [
 
           {
-            title: 'Community',
+            title: 'COMMUNITY',
             items: [
               {
                 label: 'Discord',
@@ -108,8 +108,12 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'MORE',
             items: [
+              {
+                label: 'Atlas',
+                href: 'https://atlas.bibliothecadao.xyz/',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/BibliothecaForAdventurers',

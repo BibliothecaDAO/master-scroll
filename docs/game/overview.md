@@ -21,7 +21,7 @@ description: An overview of the game
 Once the production version of the game is live, it will exist for the length of Ethereum's data storage. Yes, it is run on StarkNet, but the all state change will still be posted to Ethereum, one of the primary determinants in our choice of an L2 to run the game over a sidechain.
 
 ### Resources are tradable and liquid
-All the resources (and many other assets) within this gameworld are user-owned tradable tokens. You use these resources to create buildings and troops to improve asnd defend your Realm, and pillage resources from others in your quest for greatness.
+All the resources (and many other assets) within this gameworld are user-owned tradable tokens. You use these resources to create buildings and troops to improve and defend your Realm, and pillage resources from others in your quest for greatness.
 
 
 #### Difficult player choices
