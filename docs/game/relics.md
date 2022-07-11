@@ -7,7 +7,7 @@ description: There are 8000 ancient Relics across the Realmverse and one exists 
 ---
 
 
-> There are 8000 ancient Relics across the Realmverse and one exists on each Realm. 
+> There are 8000 ancient Relics across the Realmverse and one exists on each Realm. You must defend your Realm or your Relic will be stolen.
 
 ---
 
@@ -23,4 +23,4 @@ Once you have plundered a Relic, it will exist on your attacking Realm until the
 
 Relics affect your happiness rating by -20 points, which will impact your daily resource harvest yield. 
 
-It would be wise to build a strong defensive squad to protect your valuable Relic… [defensive squad link]
+It would be wise to build a strong defensive squad to protect your valuable Relic.
