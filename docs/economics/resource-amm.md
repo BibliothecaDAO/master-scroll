@@ -86,4 +86,4 @@ Liquidity is supplied at the current price point in the x * y = k curve.
 
 ### Staking your LP tokens for further rewards
 
-Once you are in possession of LP tokens you can then become a Liquidity Merchant and stake your LP tokens for further rewards - learn how via The Nexus.
+Once you are in possession of LP tokens you can then become a Liquidity Merchant and stake your LP tokens for further rewards - learn how via [The Nexus](./nexus.md).

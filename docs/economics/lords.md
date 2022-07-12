@@ -40,6 +40,6 @@ The DAO retains a large proportion of the tokens which it could choose to use fo
 
 ### Journey Contract
 
-The journey contract was the initial distribution of Lords to early Realms holders who chose to stake. An allocation of this size will not happen again.
+The journey contract was the initial distribution of $LORDS to early Realms holders who chose to stake. An allocation of this size will not happen again.
 
 

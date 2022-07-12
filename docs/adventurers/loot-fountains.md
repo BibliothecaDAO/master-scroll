@@ -45,7 +45,7 @@ Adventurers will be able to equip these items in any combination that suits them
 
 ### Trading
 
-All the Loot items will be traded on the NFT Marketplace and will be priced in $LORDS.
+All the Loot items will be traded on the NFT Marketplace and will be priced in ETH.
 
 ### Dropping of Items
 
@@ -53,7 +53,7 @@ In the Lootverse there will be various places to explore. Some of these places w
 
 ### The Merchant Contract
 
-A merchant will be a buy-back contract where users can go to burn their unwanted items. In exchange for the burn, the players will receive a combination of resources and or Lords back. This will aim to provide a lever to control the supply of items into the marketplace. The specifics of this will be explained closer to launch.
+A merchant will be a buy-back contract where users can go to burn their unwanted items. In exchange for the burn, the players will receive a combination of resources and or $LORDS back. This will aim to provide a lever to control the supply of items into the marketplace. The specifics of this will be explained closer to launch.
 
 ### Governance
 

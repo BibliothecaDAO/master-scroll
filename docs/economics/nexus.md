@@ -5,7 +5,7 @@ description: Single-sided Staking of $LORDS and LP tokens
 
 # The Nexus
 
-> Single-sided Staking of $LORDS and LP tokens
+> Single-sided staking of $LORDS and LP tokens
 
 ---
 
@@ -21,7 +21,7 @@ For generations, Adventurers have scaled the Citadel mountain peak to pay tribut
 
 Web3 is Read, Write, Own. Bibliotheca DAO’s vision from inception was to have the players own the gaming protocol and actively contribute to the direction and metagame.
 
-Up until the time of writing, $LORDS emissions have only been emitted either by staking your Realm or by providing liquidity to the Uniswap pair. This initial structure was intended to reward Lords & Ladies who invested in the early days of the project with high yields for a short period of time. As planned the rewards are switching now to a sustainable long-term model.
+Up until the time of writing, $LORDS emissions have only been emitted either by staking your Realm or by providing liquidity to the Uniswap pair. This initial structure was intended to reward Lords who invested in the early days of the project with high yields for a short period of time. As planned the rewards are switching now to a sustainable long-term model.
 
 Below we outline our vision for a sustainable, non-inflationary single-sided staking mechanism, which allows players the opportunity to contribute to the growth of the protocol and be rewarded for doing so.
 
@@ -29,7 +29,7 @@ Below we outline our vision for a sustainable, non-inflationary single-sided sta
 
 ### The $LORDS must flow
 
-$LORDS are emitted via settling of Realms beginning with epoch 0. These are set at 25 per day and decrease slowly overtime to balance inflation with growth, with the total distribution taking a minimum of 3 years. 
+$LORDS are emitted via Realm Lords defeating [Goblin Towns](/docs/game/goblin-towns.md). These are set at 25 per day/victory and decrease slowly overtime to balance inflation with growth, with the total distribution taking a minimum of 7 years. 
 
 As a holder, you have to make a choice where to store your $LORDS which are outlined below.
 
@@ -53,7 +53,7 @@ Transactions within the protocol rely on trading with $LORDS. And with these tra
 
 The fees flow into a splitter account which manages the % between the Nexus and the Bibliotheca DAO Treasury. The division % is still to be determined and will be adjusted via a DAO vote.
 
-*Note: all mainnet fees (eg OpenSea, LooksRare etc) will be sent to the mainnet  Bibliotheca DAO multi-sig.*
+*Note: all mainnet fees (eg OpenSea, LooksRare etc) will be sent to the mainnet Bibliotheca DAO multi-sig.*
 
 ---
 
@@ -79,7 +79,7 @@ Players will stake their $LORDS in the Nexus and be rewarded per block according
 </TabItem>
   <TabItem value="2. Liquidity Merchant (LP token staking)" label="2. Liquidity Merchant (LP token staking)">
 
-The Nexus likes to be fed a steady diet of Resource/$LORDS position tokens. In return, it rewards Liquidity Merchants with $LORDS.
+The Nexus likes to be fed a steady diet of resource/$LORDS position tokens. In return, it rewards Liquidity Merchants with $LORDS.
 
 ### How does it work?
 
@@ -87,7 +87,7 @@ After creating an LP position, you are returned your position in the form of LP 
 
 By staking your LP tokens you will earn both fees:
 
-**LP Fees** -> These accrue to your position in the form of Resources and Lords. Impermanent loss is possible while you have positions. Be a weary traveller.
+**LP Fees** -> These accrue to your position in the form of resources and $LORDS. Impermanent loss is possible while you have positions. Be a weary traveller.
 
 **Nexus $LORDS** -> These are claimable whilst your LP position is staked.
 

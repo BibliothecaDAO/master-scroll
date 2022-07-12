@@ -23,7 +23,7 @@ $LORDS is the only erc20 token within the network. It is generated only from spe
 
 ### Resources
 
-Resources are the core fungible tokens in the network. They can only be generated via in game NFT assets and are at the center of this whole world. Resources are used to build Realms, and in the process, they are burnt. Due to this, they are highly inflationary and highly deflationary according to their utilisation within the network.
+Resources are the core fungible tokens in the network. They can only be generated via in game NFT assets and are at the center of this whole world. Resources are used to build Realms, and in the process, they are burnt. Due to this, they are highly inflationary and highly deflationary according to their utilization within the network.
 
 
 In the first game release, 22 different tokens will exist and they will generate from the Realms settled in the game. New resources will be added as the game progresses, with the first expansion coming from the Crypts & Caverns NFTs.

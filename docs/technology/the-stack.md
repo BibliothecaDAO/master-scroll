@@ -7,7 +7,7 @@ sidebar_position: 3
 
 
 ### The Contracts
-Bibliotheca's Open Source contracts can be found in a monorepo on [GitHub](https://github.com/BibliothecaForAdventurers/realms-contracts), consisting of both L1 contracts written in Solidity, and L2 contracts for StarkNet written in Cairo. These range from Realms Asset contracts (ERC721 and ERC1155), to staking, game logic, bridging and content (lore) contracts.
+Bibliotheca DAO's Open Source contracts can be found in a monorepo on [GitHub](https://github.com/BibliothecaForAdventurers/realms-contracts), consisting of both L1 contracts written in Solidity, and L2 contracts for StarkNet written in Cairo. These range from Realms Asset contracts (ERC721 and ERC1155), to staking, game logic, bridging and content (lore) contracts.
 
 ### The Indexer
 Asset and game events are tracked by our own [Indexer](https://github.com/BibliothecaForAdventurers/starknet-indexer), employing Apollo Server, Typescript, Prisma and Postgres. This enables any client applications (e.g frontends, analytics tools or bots) to query for events using GraphQL, or any proposed module to make an update to the indexer to make new events available to clients.
