@@ -91,7 +91,8 @@ By staking your LP tokens you will earn both fees:
 
 **Nexus $LORDS** -> These are claimable whilst your LP position is staked.
 
-[Read more about the AMM]
+[Read more about the AMM](nexus.md)
+
 
 ![alt](/img/game/amm-rewards.png)  
 </TabItem>
