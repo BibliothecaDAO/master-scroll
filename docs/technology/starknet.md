@@ -26,8 +26,3 @@ STARKs are able to improve the scalability of an L1 network by allowing develope
 
 ### Cairo and a new way to write contracts
 Solidity has a number of limitations that make it inefficient for compiling STARKS, such as relying on more inefficient data structures (e.g uint256) and limited access to low-level primitives. Cairo is the first Turing-complete language for creating provable programs for general computation, enabling these limitations be bypassed. 
-
-#### Composability
-‘Composability is to software as compounding interest is to finance’ - Chris Dixon
-
-The composability of solidity contracts allowed developers to fully realize the potential of Ethereum. First, it was financial lego blocks (DeFi) - but further industries were not viable due to rising L1 costs and limitations, now it’s on-chain metadata. Next, with upcoming technology advances, it will be games' liquidity and item interoperability, bringing visions of the metaverse a step closer.
