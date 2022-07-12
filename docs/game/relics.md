@@ -13,11 +13,11 @@ description: There are 8000 ancient Relics across the Realmverse and one exists 
 
 ### What are Relics?
 
-Each Realm has a unique Relic which it must protect. The people of your Realm worship this Relic and if it is lost they start to lose hope in your leadership.
+Each Realm has a unique Relic which it must protect. The people of your Realm worship this Relic, and if it is lost, they start to lose hope in your leadership.
 
 ### How do you capture a Relic?
 
-You can plunder a Relic by Raiding another Realm, which you’ll receive along with the Resources of a successful Raid. 
+You can plunder a Relic by Raiding another Realm, which you’ll receive along with the resources of a successful Raid. 
 
 Once you have plundered a Relic, it will exist on your attacking Realm until the Relic owner successfully Raids you back - adding an incentive for retaliation. 
 

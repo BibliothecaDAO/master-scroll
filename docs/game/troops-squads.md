@@ -11,7 +11,7 @@ description: In the midst of chaos, there is also opportunity. Summon troops to 
 
 ## What are Troops?
 
-Troops are the Army that you use to raid another Realm and also use to defend your Realm. You build them up individually with Resources on each Realm before they can be used. 
+Troops are the army that you use to raid another Realm and also use to defend your Realm. You build them up individually with resources on each Realm before they can be used. 
 
 ![alt](/img/game/troops.png)
 
@@ -44,4 +44,4 @@ Each troop has a different vitality statistic that determines how many health it
 
 > “An army marches on its belly. “ - Frederick the Great (or Napoleon)
 
-If you run out of food the vitality of the Troops are permanently effected by 50%, making them easier targets. You must keep your storehouse full!
+If you run out of food, the vitality of the Troops are permanently affected by 50%, making them easier targets. You must keep your storehouse full!

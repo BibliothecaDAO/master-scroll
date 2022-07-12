@@ -22,7 +22,7 @@ The 8000 Realms were procedurally generated as black and white SVG files, but ha
 
 Every Realm contains at least one (up to 7) of the 22 different resources discovered thus far in the Lootverse, each with their varying rarity.
 
-|                   | Count | % of Resources | Relative Value |
+|     Resource      | Count | % of Resources | Relative Value |
 |-------------------|:-----:|:--------------:|:--------------:|
 | Wood              |  5015 |     20.18%     |        1       |
 | Stone             |  3941 |     15.86%     |     1.27252    |
@@ -58,7 +58,7 @@ Each Realm has a unique number of geographical traits:
 
 These traits play a vital role in constraining what can be built on each Realm. 
 
-**Cities** x **Regions** + 25 = the amount of spatial area the Realm can build on (military buildings, workers huts, storehouses etc).
+(**Cities** x **Regions**) + 25 = the amount of spatial area the Realm can build on (military buildings, work huts, storehouses etc).
 
 **Harbors** = the number of Fishing Traps that can be built.
 

@@ -12,7 +12,7 @@ tags:
 
 ## What is Loot
 
-Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multi-media.
+Loot is a collaborative media project that aims to create a decentralized, infinitely-expansive sci-fantasy universe, rich with stories, games and multimedia.
 
 The Lootverse is a collection of NFT projects, games, art, stories and multimedia backed by an active community of players, builders, artists, writers and creators.
 
@@ -30,7 +30,7 @@ It's this community of builders that we are building with. Together, we are brin
 
 ## Our plans for the Lootverse
 
-We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a distillation contract. 
+We plan to bring the OG Loot bags onto StarkNet and allow rich game play with them. We will be doing this via a [distillation contract](/docs/adventurers/loot-fountains). 
 
 OG bag holders will be able to distil bags and will receive the elements as individual NFTs on StarkNet.
 

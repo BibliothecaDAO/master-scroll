@@ -12,7 +12,7 @@ tags:
 
 ---
 
-> If you want to increase your Resource production (population) or have a military to attack/defend (troops) with a higher vitality, you will need to provide your Realm with food. Food is cheap and every realm can produce (or purchase) it, but you must manage it wisely or suffer the consequences.
+> If you want to increase your resource production (population) or have a military to attack/defend (troops) with a higher vitality, you will need to provide your Realm with food. Food is cheap and every realm can produce (or purchase) it, but you must manage it wisely or suffer the consequences.
 
 
 
@@ -44,4 +44,4 @@ Wheat and Fish will be traded separately, and utility related to net consuptions
 ## Factors to consider
 
 ### Food consumption
-Work Huts, military buildings and troops all consume food. The more of these you have the faster the food is depleted. If you run out of food two major things happen: your production is capped at 25 and your troops vitality is capped at 50%.
+Work huts, military buildings and troops all consume food. The more of these you have the faster the food is depleted. If you run out of food two major things happen: your production is capped at 250 and your troops vitality is capped at 50%.

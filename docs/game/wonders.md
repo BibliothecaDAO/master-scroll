@@ -14,4 +14,4 @@ description: 50 Wonders are spread throughout the Realmverse.
 
 Every settled (staked) Wonder is entitled to a daily bonus of every Resource. 
 
-Settled Wonder Realms can claim X amount (TBD) of every Resource each day, but this does not accrue so it must be claimed daily for the maximum bonus.  
+Settled Wonder Realms can claim X amount (TBD) of every resource each day, but this does not accrue so it must be claimed daily for the maximum bonus.  
