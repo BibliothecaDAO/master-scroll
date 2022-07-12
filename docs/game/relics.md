@@ -21,6 +21,6 @@ You can plunder a Relic by Raiding another Realm, which you’ll receive along w
 
 Once you have plundered a Relic, it will exist on your attacking Realm until the Relic owner successfully Raids you back - adding an incentive for retaliation. 
 
-Relics affect your happiness rating by -20 points, which will impact your daily resource harvest yield. 
+Losing your Relic affects your happiness rating by -20 points, which will impact your daily resource harvest yield. 
 
 It would be wise to build a strong defensive squad to protect your valuable Relic.
