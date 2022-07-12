@@ -17,14 +17,14 @@ Inflation is a natural phenomenon in the world as more energy is injected into e
 
 This process would look something like this:
 
-[layer 1 layer 2 image]
+![Loot Distillation](/img/game/loot-distilation.png)
 
 ---
 
 ### Item Flow
 
 1. Items are distilled into individual ERC721s directly onto StarkNet in the holder's account
-2. Items are available to trade, use in games, or equip on Adventurer
+2. Items are available to trade, use in games, or equip on an Adventurer
 
 ### Inflation Rate
 

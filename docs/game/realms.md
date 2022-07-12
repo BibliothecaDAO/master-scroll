@@ -15,7 +15,7 @@ tags:
 
 The 8000 Realms were procedurally generated as black and white SVG files, but have since then begun their transition into high-fidelity 3D renders using height maps. 
 
-![alt](/img/game/realms-low-fid.png)
+![Realms Low-High Fidelity](/img/game/realms-low-fid.png)
 
 
  ## 22 Resources

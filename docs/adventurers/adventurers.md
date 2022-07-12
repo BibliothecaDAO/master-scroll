@@ -30,7 +30,7 @@ Once the Adventurer is equipped they will be able to quest in various parts of t
 
 ### Crafting
 
-A key component of the hyperverse is crafting, and anyone with an Adventurer is eligible for it. This is the topic of the next section.
+A key component of the hyperverse is crafting, and anyone with an Adventurer is eligible for it. This is the topic of the next section - [Loot Fountains](./loot-fountains.md).
 
 ### Interoperability with new modules
 

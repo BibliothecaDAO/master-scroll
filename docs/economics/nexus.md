@@ -9,7 +9,7 @@ description: Single-sided Staking of $LORDS and LP tokens
 
 ---
 
-**The Nexus is an ancient and mysterious mycelium-like networked machine that all transactions flow through in the Realmverse, located in the Citadel.**
+**The Nexus is an ancient and mysterious mycelium-like networked machine through which all transactions in the Realmverse must flow, located in the Citadel.**
 
 Protected by the Citadel’s towering walls and elevated atop a mountain, the Nexus has existed as long as Adventurers can remember. The Nexus is an all-seeing, omniscient machine that keeps the Realmverse at equilibrium.
 
