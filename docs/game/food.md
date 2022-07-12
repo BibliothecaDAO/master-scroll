@@ -23,9 +23,9 @@ Farms are constrained to the number of Rivers you have in your Realm, and Fish T
 
 ## Feeding your population and troops
 
-Once you have harvested or purchased $WHEAT/$FISH, you are able to distribute this food to your population and troops by converting the food into Store Houses. 
+Once you have harvested or purchased $WHEAT/$FISH, you are able to distribute this food to your population and troops by converting the food into Storehouses. 
 
-Unlike Farms and Fish Traps, Storehouses take up space in your realms spatial area. The more Storehouses you build, the more space they take up, but the longer they feed your population and troops. Storehouse deplete at a rate according to how many troops and population you have. The greater the standing army or buildings, the greater the consumption rate.
+Unlike Farms and Fish Traps, Storehouses take up space in your realms spatial area. The more Storehouses you build, the more space they take up, but the longer they feed your population and troops. Storehouses deplete at a rate according to how many troops and population you have. The greater the standing army or buildings, the greater the consumption rate.
 
 ---
 

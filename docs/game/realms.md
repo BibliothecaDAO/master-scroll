@@ -58,7 +58,7 @@ Each Realm has a unique number of geographical traits:
 
 These traits play a vital role in constraining what can be built on each Realm. 
 
-**Cities** x **Regions** + 25 = the amount of spatial area the Realm can build on (military buildings, workers huts, store houses etc).
+**Cities** x **Regions** + 25 = the amount of spatial area the Realm can build on (military buildings, workers huts, storehouses etc).
 
 **Harbors** = the number of Fishing Traps that can be built.
 
