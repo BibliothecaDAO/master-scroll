@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Master Scroll',
   tagline: '"Empires rise and fall in the quest for control of Resources and Ancient Relics within an eternal world. Maintain and defend your empire or it will fall into disarray and be consumed by enemies."',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://scroll.bibliothecadao.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
