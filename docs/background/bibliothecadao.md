@@ -17,6 +17,35 @@ Bibliotheca DAO spawned from the desire to graph the Lootverse together, but has
 
 We are hyperfocused on delivering the first open-source eternal game built on top of STARKS (StarkNet). Once this game is thriving, the methodologies learned will be applied to the next eternal game with the long term goal of becoming the cornerstone development house for building on-chain games.
 
+### The Team
+
+We are a passionate team of:
+- Web3 natives
+- Frontier pushers
+- Full-stack developers
+- Designers and storytellers
+- Gamers and game designers
+
+Currently the core team consists of 12 members, but this will continue to grow as we on-board more talent into the core.
+
+### Funding/Treasury
+
+**Treasury**
+
+The treasury is currently funded by royalties on secondary sales of Realms ([OpenSea](https://opensea.io/collection/lootrealms) & [LooksRare](https://looksrare.org/collections/0x7AFe30cB3E53dba6801aa0EA647A0EcEA7cBe18d)).
+
+The Bibliotheca DAO treasury can be found here: https://treasury.bibliothecadao.xyz/
+
+**Grants**
+
+The DAO has received multiple grants from within the Lootverse and beyond:
+- Loot 
+- GitCoin
+- StarkWare
+
+**Funding**
+
+
 ### Our Governance
 
 Governance of the DAO is based around the Realms NFTs, however this will be expanded in the future.

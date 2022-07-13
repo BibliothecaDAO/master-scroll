@@ -20,7 +20,7 @@ The Lootverse is a collection of NFT projects, games, art, stories and multimedi
 
 Read more > https://loot.foundation/
 
-## Why we build on Loot
+## Why we're build on Loot
 
 Loot is unique — in the spirit of CC0, there is no central team, no central roadmap and no company that backs it.
 

@@ -9,6 +9,10 @@ description: There are 8000 ancient Relics across the Realmverse and one exists 
 
 > There are 8000 ancient Relics across the Realmverse and one exists on each Realm. You must defend your Realm or your Relic will be stolen.
 
+![WIP of a game asset](/img/game/keyImage-desktop.png)
+
+*A WIP of a game asset*
+
 ---
 
 ### What are Relics?

@@ -41,6 +41,10 @@ If you don't claim the resources on your Realm, they will accrue for up to 3 day
 You can use resources in order to construct [buildings](./buildings#economic), summon [troops](./troops-squads), and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
 
 
+![WIP of the Buildings](/img/game/buildings-image.png)
+
+*A WIP of the Buildings*
+
 ---
 
 ## The Raidable Vault

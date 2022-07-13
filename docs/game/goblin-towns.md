@@ -22,6 +22,10 @@ Goblin Towns spawn ~ every day cycle from the moment the Realm is staked. Every 
 
 Wood Realms will only spawn the lowest difficulty, while Dragonhide will spawn the hardest to defeat, making it an even playing field for all Realms.
 
-Once you have defeated a Goblin Town you are rewarded with 10-25 $LORDS for your victory and service. 
+Once you have defeated a Goblin Town you are rewarded with $LORDS for your victory and service. 
 
-This $LORDS amount will decrease over time after every epoch. 
+:::note
+
+The $LORDS reward will be dynamic, relative to the growth of the protocol, and will decrease over time after every epoch. 
+
+:::
