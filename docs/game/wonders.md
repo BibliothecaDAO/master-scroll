@@ -8,7 +8,9 @@ description: 50 Wonders are spread throughout the Realmverse.
 
 > 50 Wonders are spread throughout the Realmverse. Wonders are mythical buildings that demand respect. They are all unique in various ways. Who built them is unknown...
 
+![WIP game asset](/img/game/wonder.jpg)
 
+*A WIP game asset*
 
 ## The Wonder Bonus
 
