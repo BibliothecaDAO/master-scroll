@@ -20,11 +20,11 @@ The Lootverse is a collection of NFT projects, games, art, stories and multimedi
 
 Read more > https://loot.foundation/
 
-## Why we build on the Loot
+## Why we build on Loot
 
 Loot is unique — in the spirit of CC0, there is no central team, no central roadmap and no company that backs it.
 
-Loot is a decentralized community of builders, creators, artists, writers and players who are building a world, together.
+Loot is a decentralized community of builders, creators, artists, writers and players who are building a world together.
 
 It's this community of builders that we are building with. Together, we are bringing this open source world to life.
 
@@ -34,6 +34,6 @@ We plan to bring the OG Loot bags onto StarkNet and allow rich game play with th
 
 OG bag holders will be able to distil bags and will receive the elements as individual NFTs on StarkNet.
 
-These NFTs will evolve over time and will be equippable to an onchain character.
+These NFTs will evolve over time and will be equippable to an on-chain character.
 
 ![Loot Bag](/img/game/loot-distilation.png)

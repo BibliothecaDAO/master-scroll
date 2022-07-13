@@ -6,7 +6,7 @@ description: The Ethereum L2 STARK scalability solution
 # StarkNet & Validity Proofs
 ---
 
-Games are some of the most complex pieces of software that exist in the world. The Ethereum Virtual Machine (EVM) is an incredible tool for low power requirement software, however it is not suited for heavy computation (and was never designed for it). For true onchain realities and worlds to emerge we require a new technology, and we believe that STARKS show the greatest promise to achieve this.
+Games are some of the most complex pieces of software that exist in the world. The Ethereum Virtual Machine (EVM) is an incredible tool for low power requirement software, however it is not suited for heavy computation (and was never designed for it). For true on-chain realities and worlds to emerge we require a new technology, and we believe that STARKS show the greatest promise to achieve this.
 
 StarkNet is a validity proof generalized smart contract network in which anyone can publish smart contracts. These smart contracts create tiny proofs which are validated by external machines. Once enough of these proofs have been created by the network a batch is published onto Ethereum Mainnet. This enables the heavy computation needed for games to be abstracted, while still retaining the security guarantee of a decentralized network, Ethereum.
 
@@ -25,7 +25,7 @@ StarkNet is a permissionless decentralized Validity-Rollup (also known as a “Z
 *Source:* StarkWare Industries
 
 ### Scalable and computational 
-STARKs are able to improve the scalability of an L1 network by allowing developers to move computations and (in the future) storage off-chain. Off-chain services can generate STARK proofs that attest the integrity of off-chain computations. These proofs are then published on chain for any interested party to validate the computation. In completing the bulk of computational work off-chain with STARKs, existing blockchain infrastructure can scale exponentially while still trustlessly maintaining computational integrity.
+STARKs are able to improve the scalability of an L1 network by allowing developers to move computations and (in the future) storage off-chain. Off-chain services can generate STARK proofs that attest the integrity of off-chain computations. These proofs are then published on-chain for any interested party to validate the computation. In completing the bulk of computational work off-chain with STARKs, existing blockchain infrastructure can scale exponentially while still trustlessly maintaining computational integrity.
 
 ### Cairo and a new way to write contracts
 Solidity has a number of limitations that make it inefficient for compiling STARKS, such as relying on more inefficient data structures (e.g uint256) and limited access to low-level primitives. Cairo is the first Turing-complete language for creating provable programs for general computation, enabling these limitations be bypassed. 
