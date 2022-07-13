@@ -25,6 +25,9 @@ You require a Realm in order to participate within this game ([OpenSea](https://
 
 :::
 
+---
+![War room](/img/game/war-room.jpg)
+
 ### On-chain & eternal
 
 Once the production version of the game is live, it will exist for the length of Ethereum's data storage. Yes, it is run on StarkNet, but all the state change will still be posted to Ethereum, one of the primary determinants in our choice of an L2 to run the game over a sidechain.
