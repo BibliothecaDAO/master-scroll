@@ -13,7 +13,7 @@ For Loot to realize its potential as a high-value game asset it needs to be more
 
 ### Controlled inflation is good
 
-Inflation is a natural phenomenon in the world as more energy is injected into ecosystems. Loot is no different. There are 8000 Loot bags with a total of 64000 items.
+Inflation is a natural phenomenon in the world as more energy is injected into ecosystems. Loot is no different. There are 8,000 Loot bags with a total of 64,000 items.
 
 This process would look something like this:
 
@@ -30,10 +30,10 @@ This process would look something like this:
 
 The actual inflation rate will be finalized on a vote by the hybrid DAO, however, our proposal is as follows:
 
-- 1 Distil event per 604800s (1 Week)
-- 25 $LORDS to Distil a Bag
+- 1 Distil event per 604,800s (1 Week)
+- 25 $LORDS to distil a bag
 
-If 2000 bags are distilled each week, this will equate to ~16,000 items which allow the equipping of potentially 2000 Adventurers. Although it is highly doubtful that all 2000 would be assembled.
+If 2,000 bags are distilled each week, this will equate to ~16,000 items which allow the equipping of potentially 2,000 Adventurers. Although it is highly doubtful that all 2000 would be assembled.
 
 ### Item Statistics
 
@@ -54,7 +54,3 @@ In the Lootverse there will be various places to explore. Some of these places w
 ### The Merchant Contract
 
 A merchant will be a buy-back contract where users can go to burn their unwanted items. In exchange for the burn, the players will receive a combination of resources and or $LORDS back. This will aim to provide a lever to control the supply of items into the marketplace. The specifics of this will be explained closer to launch.
-
-### Governance
-
-This contract will be governed by a hybrid DAO of multiple projects not only Realm holders. This will ensure that this contract is a public good contract.

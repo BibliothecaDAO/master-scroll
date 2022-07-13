@@ -5,7 +5,7 @@ description: Developer and gamer first solutions.
 
 # The Stack
 
-All game state and logic is created on chain, with the majority of transactions occuring on Starknet. The data is then cached in a performant GraphQL indexer which can be queried by any frontend application, such as the Atlas website or user created experiences.
+All game state and logic is created on-chain, with the majority of transactions occuring on Starknet. The data is then cached in a performant GraphQL indexer which can be queried by any frontend application, such as the Atlas website or user created experiences.
 
 ### The Contracts
 Bibliotheca's Open Source contracts can be found in a monorepo on [GitHub](https://github.com/BibliothecaForAdventurers/realms-contracts), consisting of both L1 contracts written in Solidity, and L2 contracts for StarkNet written in Cairo. These range from Realms Asset contracts (ERC721 and ERC1155), to staking, game logic, bridging and content (lore) contracts.
