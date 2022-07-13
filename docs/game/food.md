@@ -29,7 +29,7 @@ Unlike Farms and Fish Traps, Storehouses take up space in your realms spatial ar
 
 ---
 
-![alt](/img/game/food-production.png)
+![Food Production](/img/game/food-production.png)
 
 ---
 

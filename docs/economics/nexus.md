@@ -35,7 +35,7 @@ As a holder, you have to make a choice where to store your $LORDS which are outl
 
 ---
 
-![alt](/img/game/lords-tokenomics.png)
+![$LORDS tokenomics](/img/game/lords-tokenomics.png)
 
 ---
 
@@ -74,7 +74,7 @@ The $LORDS are offered to the Nexus and in return receive run-off from the netwo
 Players will stake their $LORDS in the Nexus and be rewarded per block according to the previous 24hr trading period. Your reward is calculated according to your share of the offerings.
 
 
-![alt](/img/game/nexus-single-sided.png)  
+![The Nexus](/img/game/nexus-single-sided.png)  
 
 </TabItem>
   <TabItem value="2. Liquidity Merchant (LP token staking)" label="2. Liquidity Merchant (LP token staking)">
@@ -94,7 +94,7 @@ By staking your LP tokens you will earn both fees:
 [Read more about the AMM](nexus.md)
 
 
-![alt](/img/game/amm-rewards.png)  
+![AMM Rewards](/img/game/amm-rewards.png)  
 </TabItem>
 </Tabs>
 

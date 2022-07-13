@@ -14,7 +14,7 @@ Each Realm regardless of rarity and traits is entitled to a $LORDS reward, but t
 
 To earn your $LORDS reward, players must have their Realm(s) staked in the game and defeat Goblin Towns. 
 
-![alt](/img/game/goblin-towns.png)
+![Goblin Towns](/img/game/goblin-towns.png)
 
 ### Goblin Towns 
 

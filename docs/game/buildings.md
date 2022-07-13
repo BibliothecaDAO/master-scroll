@@ -30,7 +30,7 @@ The above formula will give you the Realm’s max buildable squares (which is th
 
 ---
 
-![alt](/img/game/buildings.png)
+![Buildings](/img/game/buildings.png)
 
 ---
 ## Building Decay

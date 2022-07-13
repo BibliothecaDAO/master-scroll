@@ -19,7 +19,7 @@ Once a Realm has summoned army troops, it is able to commence a raid on any Real
 
 
 
-![alt](/img/game/combat.png)
+![Game Combat](/img/game/combat.png)
 
 ---
 ## Raiding factors to consider

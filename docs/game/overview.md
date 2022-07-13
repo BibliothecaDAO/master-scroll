@@ -42,10 +42,10 @@ Players must make difficult choices in this game. Every action has a reaction. B
 The game we describe in this section is the base layer for an ever evolving on-chain world. It will form the macroeconomic and social layer necessary in order to terraform a world and culture to support 1m+ players.
 
 ---
-![alt](/img/game/military-path.png)
+![Military Path](/img/game/military-path.png)
 
 ---
-![alt](/img/game/economic-path.png)
+![Economic Path](/img/game/economic-path.png)
 
 
 

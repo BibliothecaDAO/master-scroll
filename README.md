@@ -1,4 +1,4 @@
-![alt](/static/img/mobius.jpeg)
+![Mobius](/static/img/mobius.jpeg)
 
 # Eternal Games
 

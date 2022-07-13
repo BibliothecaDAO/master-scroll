@@ -13,7 +13,7 @@ description: In the midst of chaos, there is also opportunity. Summon troops to 
 
 Troops are the army that you use to raid another Realm and also use to defend your Realm. You build them up individually with resources on each Realm before they can be used. 
 
-![alt](/img/game/troops.png)
+![Troops](/img/game/troops.png)
 
 NOTE: Troops are not tradable tokens. They only exist on your Realm and you cannot transfer them around. They exist to defend and attack only.
 
@@ -31,7 +31,7 @@ NOTE: Troops are not tradable tokens. They only exist on your Realm and you cann
 
 Troops are divided into three tiers with stats weighed by the rarity of resource cost. One squad is made of 15 troops:
 
-![alt](/img/game/squads.png)
+![Squads](/img/game/squads.png)
 
 This forms a single squad that you can use to raid or you can just use as defense on your Realm. Tier 3 troops offer special bonuses to the whole squad.
 
