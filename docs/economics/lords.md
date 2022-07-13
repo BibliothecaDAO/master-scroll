@@ -9,7 +9,7 @@ tags:
 
 # The Lords Token
 
-The $LORDS token is the ERC20 token underpinning the Realmverse, giving a fungible method of entry and exit from the network. It is the core utility token that is essential for gameplay. It will follow a long emissions schedule which will be controlled by the growth of the network.
+The $LORDS token is the ERC20 token underpinning the Realmverse, giving a fungible method of entry and exit from the network. It is the core utility token that is essential for gameplay. It will follow a long emission schedule which will be controlled by the growth of the network.
 
 
 
@@ -19,7 +19,7 @@ The $LORDS token is the ERC20 token underpinning the Realmverse, giving a fungib
 
 A hard cap of 500 million $LORDS has been set, with distribution highlighted in the following chart. This distribution is governed via the Bibliotheca DAO and may change depending on the direction as voted.
 
-![alt](/img/allocation.png)
+![$LORDS Allocation](/img/allocation.png)
 
 
 

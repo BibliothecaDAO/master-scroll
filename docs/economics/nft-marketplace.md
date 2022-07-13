@@ -11,7 +11,7 @@ The NFT marketplace is a project in active development by the DAO. All NFT asset
 
 ### assets on the market
 
-The market will be a fully onchain marketplace and denominated in ETH. Initally it will contain the following assets, but will be expanded to other assets as the game grows:
+The market will be a fully on-chain marketplace and denominated in ETH. Initially it will contain the following assets, but will be expanded to other assets as the game grows:
 
 - Realms
 - Crypts

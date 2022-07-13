@@ -16,7 +16,7 @@ tags:
 
 
 
-## Rivers (Farms) & Harbours (Fish Traps)
+## Rivers (Farms) & Harbors (Fish Traps)
 
 Farms are constrained to the number of Rivers you have in your Realm, and Fish Traps to your Harbors. The higher number of Farms/Fish Traps you have built, the higher yield of Wheat/Fish you’ll generate. 
  Each Farm/Fishing Trap generates 1000 $WHEAT/$FISH per day and accrues for a maximum of 3 days until they are harvested. 
@@ -37,9 +37,9 @@ Unlike Farms and Fish Traps, Storehouses take up space in your realms spatial ar
 
 Once you harvest either $WHEAT/$FISH from your Farms/Fish Traps, you have the option to trade any excess on the AMM for $LORDS.
 
-In turn, this provides the opportunity for other Lords to purchase them instead of having to build Farms/Traps and harvesting themselves. A Lord with low Rivers/Harbors with a penchance for raiding, or simply being time poor can benefit from this, while providing a $LORDS stream to productive farmers. 
+In turn, this provides the opportunity for other Lords to purchase them instead of having to build Farms/Traps and harvesting themselves. A Lord with low Rivers/Harbors with a penchant for raiding, or simply being time poor can benefit from this, while providing a $LORDS stream to productive farmers. 
 
-Wheat and Fish will be traded separately, and utility related to net consuptions, will add an interesting economic factor to the game.
+Wheat and Fish will be traded separately, and utility related to net consumptions, will add an interesting economic factor to the game.
 
 ## Factors to consider
 

@@ -26,7 +26,7 @@ Once a Realm has summoned army troops, it is able to commence a raid on any Real
 
 ### Cool Down Time
 
-To limit bots, there is a cool down period between raids. After a successful or unsuccessful raid, the attacking Army must cool down. This cool down period is at max 10 minutes and can be reduced by building more military buildings.
+To limit bots, there is a cool down period between raids. After a successful or unsuccessful raid, the attacking army must cool down. This cool down period is at max 10 minutes and can be reduced by building more military buildings.
 
 ### More Army = More food consumption
-Naturally, if you are standing a large squad, your troops need to be fed. You must keep food in your storehouse at all times or else the vitality on your troops will be capped at 50%.
+Naturally, if you are standing a large squad, your troops need to be fed. You must keep food in your storehouse at all times or else the vitality of your your troops will be capped at 50%.

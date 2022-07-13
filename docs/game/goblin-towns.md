@@ -18,7 +18,7 @@ To earn your $LORDS reward, players must have their Realm(s) staked in the game 
 
 ### Goblin Towns 
 
-Goblin Towns spawn ~ every day cycle from the moment the Realm is staked. Every time a goblin town is destroyed this resets. They have a level of randomness to them and their strength is determined when the battle begins. 
+Goblin Towns spawn ~ every day cycle from the moment the Realm is staked. Every time a Goblin Town is destroyed this resets. They have a level of randomness to them and their strength is determined when the battle begins. 
 
 Wood Realms will only spawn the lowest difficulty, while Dragonhide will spawn the hardest to defeat, making it an even playing field for all Realms.
 

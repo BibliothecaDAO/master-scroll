@@ -23,7 +23,7 @@ $LORDS is the only erc20 token within the network. It is generated only from spe
 
 ### Resources
 
-Resources are the core fungible tokens in the network. They can only be generated via in game NFT assets and are at the center of this whole world. Resources are used to build Realms, and in the process, they are burnt. Due to this, they are highly inflationary and highly deflationary according to their utilization within the network.
+Resources are the core fungible tokens in the network. They can only be generated via in game NFT assets and are at the center of this whole world. Resources are used to pay for buildings constructed on a Realm, and in the process, they are burnt. Due to this, they are highly inflationary and highly deflationary according to their utilization within the network.
 
 
 In the first game release, 22 different tokens will exist and they will generate from the Realms settled in the game. New resources will be added as the game progresses, with the first expansion coming from the Crypts & Caverns NFTs.
@@ -33,15 +33,15 @@ In the first game release, 22 different tokens will exist and they will generate
 
 ### Realms
 
-Realms exist within this world as tradable NFTs on the [Marketplace](./nft-marketplace.md). You will be able sell settled Realms (without unsettling) via the L2 Marketplace.
+Realms exist within this world as tradable NFTs on the [Marketplace](./nft-marketplace.md). You will be able to sell settled Realms (without unsettling) via the L2 Marketplace.
 
 
 ### Loot items
 
 We have developed an inflationary distillation contract of individual Loot items with a special Layer 1 to Layer 2 function. These inflate at a fixed rate and are available for trade and to equip onto their Adventurer.
 
-![Loot distilation](/img/game/loot-distilation.png)
+![Loot distillation](/img/game/loot-distilation.png)
 
-Balancing a game where external developers can submit core modules that affect the economy will be challenging. After the game is launched there will be a balancing committee of builders who will vote on how each new resource/item interoperates with the rest of the game.
+Balancing a game where external developers can submit core modules that affect the economy is a known and accepted challenge. After the game is launched there will be a balancing committee of builders who will vote on how each new resource/item interoperates with the rest of the game.
 
 

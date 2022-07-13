@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="BibliothecaDAO Master scroll"
+      description="Bibliotheca DAO Master scroll"
     >
       <HomepageHeader />
     </Layout>

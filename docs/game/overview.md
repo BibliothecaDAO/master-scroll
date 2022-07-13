@@ -11,7 +11,7 @@ description: An overview of the game
 
 ---
 
-> “ Empires rise and fall in the quest for control of Resources and Ancient Relics within a forever world. Maintain and defend your empire or it will fall into disarray and be consumed by enemies. “
+> "Empires rise and fall in the quest for control of Resources and Ancient Relics within an eternal world. Maintain and defend your empire or it will fall into disarray and be consumed by enemies."
 
 ---
 
@@ -21,12 +21,11 @@ All statistics and figures in this document are subject to change slightly as th
 :::
 
 :::note
-You require a Realm in order to participate within this game ([OpenSea](https://opensea.io/collection/lootrealms)
-). The first expansion of this game will be centered around the Adventurers NFT which will be free to play.
+You require a Realm in order to participate within this game ([OpenSea](https://opensea.io/collection/lootrealms)/[LooksRare](https://looksrare.org/collections/0x7AFe30cB3E53dba6801aa0EA647A0EcEA7cBe18d)). The first expansion of this game will be centered around the Adventurers NFT which will be free to play.
 
 :::
 
-### Onchain & eternal
+### On-chain & eternal
 
 Once the production version of the game is live, it will exist for the length of Ethereum's data storage. Yes, it is run on StarkNet, but all the state change will still be posted to Ethereum, one of the primary determinants in our choice of an L2 to run the game over a sidechain.
 
@@ -40,7 +39,7 @@ Players must make difficult choices in this game. Every action has a reaction. B
 
 #### Realms are the beginning
 
-The game we describe in this section is the base layer for an ever evolving onchain world. It will form the macroeconomic and social layer necessary in order to terraform a world and culture to support 1m+ players.
+The game we describe in this section is the base layer for an ever evolving on-chain world. It will form the macroeconomic and social layer necessary in order to terraform a world and culture to support 1m+ players.
 
 ---
 ![alt](/img/game/military-path.png)

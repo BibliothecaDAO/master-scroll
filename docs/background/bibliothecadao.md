@@ -23,7 +23,7 @@ Governance of the DAO is based around the Realms NFTs, however this will be expa
 
 ### Open source
 
-All code within this ecosystem is open source. Players are free to fork and tweak the game they see fit; the value of the ecosytem comes from not from constraining the code, but setting it free. It is no secret to why Linux is the most used operating system in the world; it's because of its open source nature. Anyone is free to build on Linux, and anyone is free to build and extend the Realms and Bibliotheca ecosystem. See our [Github](https://github.com/BibliothecaForAdventurers/).
+All code within this ecosystem is open source. Players are free to fork and tweak the game as they see fit; the value of the ecosytem comes not from constraining the code, but setting it free. It is no secret as to why Linux is the most used operating system in the world; it's because of its open source nature. Anyone is free to build on Linux, and anyone is free to build and extend the Realms and Bibliotheca ecosystem. See our [Github](https://github.com/BibliothecaForAdventurers/).
 
 ### cc0 - no copyright reserved
 

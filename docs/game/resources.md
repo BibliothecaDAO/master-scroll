@@ -30,7 +30,7 @@ By increasing the population on a Realm, you will increase the number of workers
 
 #### How do I harvest Resources?
 
-Resources accrue every day cycle within the game. Once you harvest your resources they will appear in your Iron Bank. All resources are tokens and can be traded on the AMM (paired with Lords).
+Resources accrue every day cycle within the game. Once you harvest your resources they will appear in your Iron Bank. All resources are tokens and can be traded on the AMM (paired with $LORDS).
 
 #### Resource accrual cap
 

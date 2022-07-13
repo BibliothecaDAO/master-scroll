@@ -71,7 +71,7 @@ The $LORDS are offered to the Nexus and in return receive run-off from the netwo
 
 ### How does it work?
 
-Players will stake their $LORDS in the Nexus and be rewarded per block according to the previous 24hr trading period. Your reward is calculated according to your share of the over offerings.
+Players will stake their $LORDS in the Nexus and be rewarded per block according to the previous 24hr trading period. Your reward is calculated according to your share of the offerings.
 
 
 ![alt](/img/game/nexus-single-sided.png)  

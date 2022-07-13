@@ -9,7 +9,7 @@ tags:
 # Realms
 ---
 
-> Realm Lords are the landowners of this world; they are the primary productive asset that keeps injecting liquidity into this ever-expanding world. They go to war, form allegiances (and break them) when fighting over scarce Resources.
+> Realm Lords are the landowners of this on-chain, eternal world; they are the primary productive asset that keeps injecting liquidity into this ever-expanding world. They go to war, form allegiances (and break them) when fighting over scarce Resources.
 
 ## Origin
 
