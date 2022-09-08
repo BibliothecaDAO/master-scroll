@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Adventurers
 
-Adventurers is a new type of ERC721 contract that is upgradable and composable on StarkNet. Adventurers are free to mint, and with StarkNet’s very competitive transaction fees they are as free to play as it gets on-chain. Adventurers are the key to playing many games in the Realmverse and are a crucial element of the economy.
+Adventurers is a new type of ERC721 contract that is upgradeable and composable on StarkNet. Adventurers are free to mint, and with StarkNet’s very competitive transaction fees they are as free to play as it gets on-chain. Adventurers are the key to playing many games in the Realmverse and are a crucial element of the economy.
 
 ### How is an Adventurer Born?
 
