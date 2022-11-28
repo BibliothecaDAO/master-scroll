@@ -49,7 +49,7 @@ Once you build work huts they will decay, so it is not a one-time purchase. Work
 
 ### Military
 
-A Lord must build military buildings to unlock the ability to summon troops for raiding Realms and defending their raidable vault.
+A Lord must build military buildings to unlock the ability to summon battalions for raiding Realms and defending their raidable vault.
 
 There are four types of military buildings and they unlock different Battalions.
 

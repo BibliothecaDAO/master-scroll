@@ -35,7 +35,7 @@ If you don't claim the resources on your Realm, they will accrue for up to 3 day
 
 #### What do Resources do?
 
-You can use resources in order to construct [buildings](./buildings#economic), summon [troops](./troops-squads), and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
+You can use resources in order to construct [buildings](./buildings#economic), summon [battalions](./troops-squads), and trade on the [AMM](/docs/economics/resource-amm). They are the economic layer of this world and are scarce, so use them wisely.
 
 ![Resource Production](/img/game/buildings/mj_castle.png)
 
@@ -51,11 +51,11 @@ However, if you are attacked successfully, your vault will be depleted by 25% ea
 
 ### Defending your vault
 
-You must build up your defensive squad in order to protect your vault. If you don't defend your vault and are frequently attacked, it will never reach 7 days of production and you will never be able to claim it.
+You must build up your defensive army in order to protect your vault. If you don't defend your vault and are frequently attacked, it will never reach 7 days of production and you will never be able to claim it.
 
 ### Cool down between attacks
 
-If you are attacked, whether successfully or not, your Realm is given a 30 minute cool down period where it can't be attacked again.
+If you are attacked, whether successfully or not, your Realm is given a 24 hour cool down period where it can't be attacked again.
 
 ---
 
