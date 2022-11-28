@@ -3,45 +3,42 @@ sidebar_position: 5
 description: In the midst of chaos, there is also opportunity. Summon troops to help defend your Realm, or quest to foreign lands in order to steal riches.
 ---
 
-# Troops & Squads
+# Armies & Battalions
+
 ---
 
 > In the midst of chaos, there is also opportunity. Summon troops to help defend your Realm, or quest to foreign lands in order to steal riches.
 
+## What are Battalions?
 
-## What are Troops?
+Battalions are groups of military units that when combined create Armies. There are 8 primary Battalions in the current iteration and each has a special perk.
 
-Troops are the army that you use to raid another Realm and also use to defend your Realm. You build them up individually with resources on each Realm before they can be used. 
+![Troops](/img/game/battalions/mj_hunter.png)
 
-![Troops](/img/game/troops.png)
-
-NOTE: Troops are not tradable tokens. They only exist on your Realm and you cannot transfer them around. They exist to defend and attack only.
-
-
-
-
-
-
-
-
+:::note
+Armies & Battalions are not tradable tokens. They only exist on your Realm and you cannot transfer them around. They exist to defend and attack only.
+:::
 
 ---
 
-## What are Squads?
+## What are Armies?
 
-Troops are divided into three tiers with stats weighed by the rarity of resource cost. One squad is made of 15 troops:
+Armies are composed of Battalions. A Realm can contain many Armies.
 
-![Squads](/img/game/squads.png)
+[battlion image]
 
-This forms a single squad that you can use to raid or you can just use as defense on your Realm. Tier 3 troops offer special bonuses to the whole squad.
+### Your Defending Army
 
-If a troop is slain they are removed from the squad and the game.
+Every Realm can only have 1 Defending Army at any one time. You must remember to keep this Army fed and well stocked or you may be suffer a raid and loose your Relic and Resources.
 
+### Attacking Armies
 
-
-### The health of the squad
-Each troop has a different vitality statistic that determines how many health it has. If a troop is hurt in battle it does not rejuvenate and heal. Once vitality reaches 0 the troop is dead.
+You can create as many Attacking Armies as you wish, however each Battalion counts as 1 Population. You use your attacking Armies to travel to and raid other Realms.
 
 > “An army marches on its belly. “ - Frederick the Great (or Napoleon)
 
-If you run out of food, the vitality of the Troops are permanently affected by 50%, making them easier targets. You must keep your storehouse full!
+:::warning
+
+If you run out of food, the vitality of the Battalions are affected by 50%, making them easier to be defeated. You must keep your storehouse full of food!
+
+:::
