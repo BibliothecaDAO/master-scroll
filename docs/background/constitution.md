@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Shepherding the development of the first open-source MMOCCG (Massively Multiplayer On-Chain Composable Game) built on top of STARKS (StarkNet).
+description: The constitution of Bibliotheca DAO.
 tags:
   - dao
 ---
