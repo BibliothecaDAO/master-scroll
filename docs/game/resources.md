@@ -17,21 +17,25 @@ tags:
 
 #### How are Resources generated?
 
-Once a Realm is settled in the game it will begin generating 250 of each resource it has per day. This is the base amount that generates, but is influenced by your choices in managing the Realm.
+Once a Realm is settled in the game it becomes eligible to start generating resources. To bootstrap your economy and begin generating resources, players must buy Tools And Labor for each resource they want to produce. Tools And Labour carry a unique cost for each resource - the rarer the resource the higher cost of production (priced in resources).
+
+One cycle of resource generation takes 2 hours after buying the Tools And Labor to become harvestable and returns 25x of the said resource. You can harvest them anytime once they are available - these can’t be raided so they are safe to be harvested in your own time. 
 
 #### How do I increase Resource production?
 
-By increasing the population on a Realm, you will increase the number of workers and therefore increase the resource production. To do this you must build work huts (see [buildings](./buildings#economic)).
+Players are able to buy Tools And Labor in 2-hour increments. To generate more resources players can buy multiple Tools And Labor and either claim them every 2 hours or bulk claim them once the queued production has been completed.
+
+For example, if a player were to buy 10x Tools And Labor for Diamonds on a Realm, they could claim 25x Diamonds every 2 hours 10 times, or claim 250x Diamonds 20 hours later.
 
 ![Resource Production](/img/game/resource-production.png)
 
 #### How do I harvest Resources?
 
-Resources accrue every day cycle within the game. Once you harvest your resources they will appear in your Iron Bank. All resources are tokens and can be traded on the AMM (paired with $LORDS).
+Resources are claimable after each 2-hour Tools And Labor cycle. Once you harvest your resources they will appear in your Iron Bank. All resources are tokens and can be traded on the AMM (paired with $LORDS).
 
 #### Resource accrual cap
 
-If you don't claim the resources on your Realm, they will accrue for up to 3 day cycles. After 3 days they will not accrue any more until claimed.
+There is no cap on how many Tools And Labor you can purchase for each resource, although players will have to claim them in 2-hour increments. 
 
 #### What do Resources do?
 
@@ -45,17 +49,19 @@ _A WIP of the Buildings_
 
 ## The Raidable Vault
 
-Every Realm generates another stream of resources that accrue directly into the Realm's vault. This is what raiding Realms are attempting to pillage, and what you need to protect. Once this vault accrues more value than 7 days of production, you are able to withdraw all of it at once, providing a hefty bonus.
+Every Realm generates another stream of resources that accrue directly into the Realm's vault. This is what raiding Realms are attempting to pillage, and what you need to protect. Once this vault reaches 1008x units, it is claimable as a hefty bonus.
+
+Every time you buy 1x Tools And Labor for a resource, 25% of the claimable amount will be added to this resource’s vault for that particular Realm. Every resource of each Realm has its own unique vault. 
 
 However, if you are attacked successfully, your vault will be depleted by 25% each time. This means you will need to wait longer until your vault refills before you can claim.
 
 ### Defending your vault
 
-You must build up your defensive army in order to protect your vault. If you don't defend your vault and are frequently attacked, it will never reach 7 days of production and you will never be able to claim it.
+You must build up your defensive army in order to protect your vault. If you don't defend your vault and are frequently attacked, it will never reach 1080 units of production and you will never be able to claim it.
 
 ### Cool down between attacks
 
-If you are attacked, whether successfully or not, your Realm is given a 24 hour cool down period where it can't be attacked again.
+If you are attacked, whether successfully or not, your Realm is given a 12 hour cool down period where it can't be attacked.
 
 ---
 

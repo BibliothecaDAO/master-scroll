@@ -29,7 +29,7 @@ Below we outline our vision for a sustainable, non-inflationary single-sided sta
 
 ### The $LORDS must flow
 
-$LORDS are emitted via Realm Lords defeating [Goblin Towns](/docs/game/goblin-towns.md). These are set at 25 per day/victory and decrease slowly overtime to balance inflation with growth, with the total distribution taking a minimum of 7 years. 
+$LORDS will be emitted via a TBC system that will reward activity and engagement in the game. These are set at 25 per day/victory and decrease slowly overtime to balance inflation with growth, with the total distribution taking a minimum of 7 years. 
 
 As a holder, you have to make a choice where to store your $LORDS which are outlined below.
 

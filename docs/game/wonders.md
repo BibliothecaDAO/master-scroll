@@ -15,4 +15,11 @@ description: 50 Wonders are spread throughout the Realmverse.
 
 Every settled (staked) Wonder is entitled to a daily bonus of every Resource.
 
-Every wonder will earn 25 resources of every resource per day. This is on-top of the base 250 production of what resources exist on that Realm.
+They generate at different amounts based on rarity to ensure a balanced ecosystem, such as:
+
+- 213 Wood
+- …
+- 1 Dragonhide
+
+Note: these are not the actual figures, this will be released at a later date.
+
